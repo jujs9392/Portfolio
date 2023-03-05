@@ -1,0 +1,919 @@
+Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease
+40,male,non-anginal pain,140,289,lower_than_120mg/ml,normal,172,no,0.0,flat,0
+49,female,asymptomatic,160,180,lower_than_120mg/ml,normal,156,no,1.0,downsloping,1
+37,male,non-anginal pain,130,283,lower_than_120mg/ml,st-t_wave_abnormality,98,no,0.0,flat,0
+48,female,asymptomatic,138,214,lower_than_120mg/ml,normal,108,yes,1.5,downsloping,1
+54,male,asymptomatic,150,195,lower_than_120mg/ml,normal,122,no,0.0,flat,0
+39,male,asymptomatic,120,339,lower_than_120mg/ml,normal,170,no,0.0,flat,0
+45,female,non-anginal pain,130,237,lower_than_120mg/ml,normal,170,no,0.0,flat,0
+54,male,non-anginal pain,110,208,lower_than_120mg/ml,normal,142,no,0.0,flat,0
+37,male,asymptomatic,140,207,lower_than_120mg/ml,normal,130,yes,1.5,downsloping,1
+48,female,non-anginal pain,120,284,lower_than_120mg/ml,normal,120,no,0.0,flat,0
+37,female,asymptomatic,130,211,lower_than_120mg/ml,normal,142,no,0.0,flat,0
+58,male,non-anginal pain,136,164,lower_than_120mg/ml,st-t_wave_abnormality,99,yes,2.0,downsloping,1
+39,male,non-anginal pain,120,204,lower_than_120mg/ml,normal,145,no,0.0,flat,0
+49,male,asymptomatic,140,234,lower_than_120mg/ml,normal,140,yes,1.0,downsloping,1
+42,female,asymptomatic,115,211,lower_than_120mg/ml,st-t_wave_abnormality,137,no,0.0,flat,0
+54,female,non-anginal pain,120,273,lower_than_120mg/ml,normal,150,no,1.5,downsloping,0
+38,male,asymptomatic,110,196,lower_than_120mg/ml,normal,166,no,0.0,downsloping,1
+43,female,non-anginal pain,120,201,lower_than_120mg/ml,normal,165,no,0.0,flat,0
+60,male,asymptomatic,100,248,lower_than_120mg/ml,normal,125,no,1.0,downsloping,1
+36,male,non-anginal pain,120,267,lower_than_120mg/ml,normal,160,no,3.0,downsloping,1
+43,female,atypical angina,100,223,lower_than_120mg/ml,normal,142,no,0.0,flat,0
+44,male,non-anginal pain,120,184,lower_than_120mg/ml,normal,142,no,1.0,downsloping,0
+49,female,non-anginal pain,124,201,lower_than_120mg/ml,normal,164,no,0.0,flat,0
+44,male,non-anginal pain,150,288,lower_than_120mg/ml,normal,150,yes,3.0,downsloping,1
+40,male,asymptomatic,130,215,lower_than_120mg/ml,normal,138,no,0.0,flat,0
+36,male,asymptomatic,130,209,lower_than_120mg/ml,normal,178,no,0.0,flat,0
+53,male,asymptomatic,124,260,lower_than_120mg/ml,st-t_wave_abnormality,112,yes,3.0,downsloping,0
+52,male,non-anginal pain,120,284,lower_than_120mg/ml,normal,118,no,0.0,flat,0
+53,female,non-anginal pain,113,468,lower_than_120mg/ml,normal,127,no,0.0,flat,0
+51,male,non-anginal pain,125,188,lower_than_120mg/ml,normal,145,no,0.0,flat,0
+53,male,asymptomatic,145,518,lower_than_120mg/ml,normal,130,no,0.0,downsloping,1
+56,male,asymptomatic,130,167,lower_than_120mg/ml,normal,114,no,0.0,flat,0
+54,male,asymptomatic,125,224,lower_than_120mg/ml,normal,122,no,2.0,downsloping,1
+41,male,asymptomatic,130,172,lower_than_120mg/ml,st-t_wave_abnormality,130,no,2.0,downsloping,1
+43,female,non-anginal pain,150,186,lower_than_120mg/ml,normal,154,no,0.0,flat,0
+32,male,non-anginal pain,125,254,lower_than_120mg/ml,normal,155,no,0.0,flat,0
+65,male,asymptomatic,140,306,greater_than_120mg/ml,normal,87,yes,1.5,downsloping,1
+41,female,non-anginal pain,110,250,lower_than_120mg/ml,st-t_wave_abnormality,142,no,0.0,flat,0
+48,female,non-anginal pain,120,177,greater_than_120mg/ml,st-t_wave_abnormality,148,no,0.0,flat,0
+48,female,asymptomatic,150,227,lower_than_120mg/ml,normal,130,yes,1.0,downsloping,0
+54,female,non-anginal pain,150,230,lower_than_120mg/ml,normal,130,no,0.0,flat,0
+54,female,asymptomatic,130,294,lower_than_120mg/ml,st-t_wave_abnormality,100,yes,0.0,downsloping,1
+35,male,non-anginal pain,150,264,lower_than_120mg/ml,normal,168,no,0.0,flat,0
+52,male,asymptomatic,140,259,lower_than_120mg/ml,st-t_wave_abnormality,170,no,0.0,flat,0
+43,male,asymptomatic,120,175,lower_than_120mg/ml,normal,120,yes,1.0,downsloping,1
+59,male,asymptomatic,130,318,lower_than_120mg/ml,normal,120,yes,1.0,downsloping,0
+37,male,asymptomatic,120,223,lower_than_120mg/ml,normal,168,no,0.0,flat,0
+50,male,non-anginal pain,140,216,lower_than_120mg/ml,normal,170,no,0.0,flat,0
+36,male,asymptomatic,112,340,lower_than_120mg/ml,normal,184,no,1.0,downsloping,0
+41,male,asymptomatic,110,289,lower_than_120mg/ml,normal,170,no,0.0,downsloping,1
+50,male,asymptomatic,130,233,lower_than_120mg/ml,normal,121,yes,2.0,downsloping,1
+47,female,asymptomatic,120,205,lower_than_120mg/ml,normal,98,yes,2.0,downsloping,1
+45,male,non-anginal pain,140,224,greater_than_120mg/ml,normal,122,no,0.0,flat,0
+41,female,non-anginal pain,130,245,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+52,female,asymptomatic,130,180,lower_than_120mg/ml,normal,140,yes,1.5,downsloping,0
+51,female,non-anginal pain,160,194,lower_than_120mg/ml,normal,170,no,0.0,flat,0
+31,male,asymptomatic,120,270,lower_than_120mg/ml,normal,153,yes,1.5,downsloping,1
+58,male,asymptomatic,130,213,lower_than_120mg/ml,st-t_wave_abnormality,140,no,0.0,downsloping,1
+54,male,asymptomatic,150,365,lower_than_120mg/ml,st-t_wave_abnormality,134,no,1.0,flat,0
+52,male,asymptomatic,112,342,lower_than_120mg/ml,st-t_wave_abnormality,96,yes,1.0,downsloping,1
+49,male,non-anginal pain,100,253,lower_than_120mg/ml,normal,174,no,0.0,flat,0
+43,female,asymptomatic,150,254,lower_than_120mg/ml,normal,175,no,0.0,flat,0
+45,male,asymptomatic,140,224,lower_than_120mg/ml,normal,144,no,0.0,flat,0
+46,male,asymptomatic,120,277,lower_than_120mg/ml,normal,125,yes,1.0,downsloping,1
+50,female,non-anginal pain,110,202,lower_than_120mg/ml,normal,145,no,0.0,flat,0
+37,female,non-anginal pain,120,260,lower_than_120mg/ml,normal,130,no,0.0,flat,0
+45,female,asymptomatic,132,297,lower_than_120mg/ml,normal,144,no,0.0,flat,0
+32,male,non-anginal pain,110,225,lower_than_120mg/ml,normal,184,no,0.0,flat,0
+52,male,asymptomatic,160,246,lower_than_120mg/ml,st-t_wave_abnormality,82,yes,4.0,downsloping,1
+44,male,asymptomatic,150,412,lower_than_120mg/ml,normal,170,no,0.0,flat,0
+57,male,non-anginal pain,140,265,lower_than_120mg/ml,st-t_wave_abnormality,145,yes,1.0,downsloping,1
+44,male,non-anginal pain,130,215,lower_than_120mg/ml,normal,135,no,0.0,flat,0
+52,male,asymptomatic,120,182,lower_than_120mg/ml,normal,150,no,0.0,downsloping,1
+44,female,asymptomatic,120,218,lower_than_120mg/ml,st-t_wave_abnormality,115,no,0.0,flat,0
+55,male,asymptomatic,140,268,lower_than_120mg/ml,normal,128,yes,1.5,downsloping,1
+46,male,asymptomatic,150,163,lower_than_120mg/ml,normal,116,no,0.0,flat,0
+32,male,asymptomatic,118,529,lower_than_120mg/ml,normal,130,no,0.0,downsloping,1
+35,female,asymptomatic,140,167,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+52,male,non-anginal pain,140,100,lower_than_120mg/ml,normal,138,yes,0.0,flat,0
+49,male,asymptomatic,130,206,lower_than_120mg/ml,normal,170,no,0.0,downsloping,1
+55,male,asymptomatic,110,277,lower_than_120mg/ml,normal,160,no,0.0,flat,0
+54,male,non-anginal pain,120,238,lower_than_120mg/ml,normal,154,no,0.0,flat,0
+63,male,asymptomatic,150,223,lower_than_120mg/ml,normal,115,no,0.0,downsloping,1
+52,male,non-anginal pain,160,196,lower_than_120mg/ml,normal,165,no,0.0,flat,0
+56,male,asymptomatic,150,213,greater_than_120mg/ml,normal,125,yes,1.0,downsloping,1
+66,male,asymptomatic,140,139,lower_than_120mg/ml,normal,94,yes,1.0,downsloping,1
+65,male,asymptomatic,170,263,greater_than_120mg/ml,normal,112,yes,2.0,downsloping,1
+53,female,non-anginal pain,140,216,lower_than_120mg/ml,normal,142,yes,2.0,downsloping,0
+43,male,atypical angina,120,291,lower_than_120mg/ml,st-t_wave_abnormality,155,no,0.0,downsloping,1
+55,male,asymptomatic,140,229,lower_than_120mg/ml,normal,110,yes,0.5,downsloping,0
+49,female,non-anginal pain,110,208,lower_than_120mg/ml,normal,160,no,0.0,flat,0
+39,male,asymptomatic,130,307,lower_than_120mg/ml,normal,140,no,0.0,flat,0
+52,female,non-anginal pain,120,210,lower_than_120mg/ml,normal,148,no,0.0,flat,0
+48,male,asymptomatic,160,329,lower_than_120mg/ml,normal,92,yes,1.5,downsloping,1
+39,female,asymptomatic,110,182,lower_than_120mg/ml,st-t_wave_abnormality,180,no,0.0,flat,0
+58,male,asymptomatic,130,263,lower_than_120mg/ml,normal,140,yes,2.0,downsloping,1
+43,male,non-anginal pain,142,207,lower_than_120mg/ml,normal,138,no,0.0,flat,0
+39,male,asymptomatic,160,147,greater_than_120mg/ml,normal,160,no,0.0,flat,0
+56,male,asymptomatic,120,85,lower_than_120mg/ml,normal,140,no,0.0,flat,0
+41,male,non-anginal pain,125,269,lower_than_120mg/ml,normal,144,no,0.0,flat,0
+65,male,asymptomatic,130,275,lower_than_120mg/ml,st-t_wave_abnormality,115,yes,1.0,downsloping,1
+51,male,asymptomatic,130,179,lower_than_120mg/ml,normal,100,no,0.0,flat,0
+40,female,asymptomatic,150,392,lower_than_120mg/ml,normal,130,no,2.0,downsloping,1
+40,male,asymptomatic,120,466,greater_than_120mg/ml,normal,152,yes,1.0,downsloping,1
+46,male,asymptomatic,118,186,lower_than_120mg/ml,normal,124,no,0.0,downsloping,1
+57,male,non-anginal pain,140,260,greater_than_120mg/ml,normal,140,no,0.0,flat,0
+48,female,asymptomatic,120,254,lower_than_120mg/ml,st-t_wave_abnormality,110,no,0.0,flat,0
+34,male,non-anginal pain,150,214,lower_than_120mg/ml,st-t_wave_abnormality,168,no,0.0,flat,0
+50,male,asymptomatic,140,129,lower_than_120mg/ml,normal,135,no,0.0,flat,0
+39,male,non-anginal pain,190,241,lower_than_120mg/ml,normal,106,no,0.0,flat,0
+59,female,non-anginal pain,130,188,lower_than_120mg/ml,normal,124,no,1.0,downsloping,0
+57,male,asymptomatic,150,255,lower_than_120mg/ml,normal,92,yes,3.0,downsloping,1
+47,male,asymptomatic,140,276,greater_than_120mg/ml,normal,125,yes,0.0,flat,0
+38,male,non-anginal pain,140,297,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+49,female,asymptomatic,130,207,lower_than_120mg/ml,st-t_wave_abnormality,135,no,0.0,flat,0
+33,female,asymptomatic,100,246,lower_than_120mg/ml,normal,150,yes,1.0,downsloping,1
+38,male,asymptomatic,120,282,lower_than_120mg/ml,normal,170,no,0.0,downsloping,1
+59,female,asymptomatic,130,338,greater_than_120mg/ml,st-t_wave_abnormality,130,yes,1.5,downsloping,1
+35,female,atypical angina,120,160,lower_than_120mg/ml,st-t_wave_abnormality,185,no,0.0,flat,0
+34,male,atypical angina,140,156,lower_than_120mg/ml,normal,180,no,0.0,downsloping,1
+47,female,asymptomatic,135,248,greater_than_120mg/ml,normal,170,no,0.0,downsloping,1
+52,female,asymptomatic,125,272,lower_than_120mg/ml,normal,139,no,0.0,flat,0
+46,male,asymptomatic,110,240,lower_than_120mg/ml,st-t_wave_abnormality,140,no,0.0,flat,0
+58,female,non-anginal pain,180,393,lower_than_120mg/ml,normal,110,yes,1.0,downsloping,1
+58,male,non-anginal pain,130,230,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+54,male,non-anginal pain,120,246,lower_than_120mg/ml,normal,110,no,0.0,flat,0
+34,female,non-anginal pain,130,161,lower_than_120mg/ml,normal,190,no,0.0,flat,0
+48,female,asymptomatic,108,163,lower_than_120mg/ml,normal,175,no,2.0,flat,0
+54,female,non-anginal pain,120,230,greater_than_120mg/ml,normal,140,no,0.0,flat,0
+42,male,asymptomatic,120,228,lower_than_120mg/ml,normal,152,yes,1.5,downsloping,0
+38,male,asymptomatic,145,292,lower_than_120mg/ml,normal,130,no,0.0,flat,0
+46,male,asymptomatic,110,202,lower_than_120mg/ml,normal,150,yes,0.0,downsloping,1
+56,male,asymptomatic,170,388,lower_than_120mg/ml,st-t_wave_abnormality,122,yes,2.0,downsloping,1
+56,male,asymptomatic,150,230,lower_than_120mg/ml,st-t_wave_abnormality,124,yes,1.5,downsloping,1
+61,female,asymptomatic,130,294,lower_than_120mg/ml,st-t_wave_abnormality,120,yes,1.0,downsloping,0
+49,male,asymptomatic,115,265,lower_than_120mg/ml,normal,175,no,0.0,downsloping,1
+43,female,non-anginal pain,120,215,lower_than_120mg/ml,st-t_wave_abnormality,175,no,0.0,flat,0
+39,male,non-anginal pain,120,241,lower_than_120mg/ml,st-t_wave_abnormality,146,no,2.0,flat,0
+54,male,asymptomatic,140,166,lower_than_120mg/ml,normal,118,yes,0.0,downsloping,1
+43,male,asymptomatic,150,247,lower_than_120mg/ml,normal,130,yes,2.0,downsloping,1
+52,male,asymptomatic,160,331,lower_than_120mg/ml,normal,94,yes,2.5,downsloping,1
+50,male,asymptomatic,140,341,lower_than_120mg/ml,st-t_wave_abnormality,125,yes,2.5,downsloping,1
+47,male,asymptomatic,160,291,lower_than_120mg/ml,st-t_wave_abnormality,158,yes,3.0,downsloping,1
+53,male,asymptomatic,140,243,lower_than_120mg/ml,normal,155,no,0.0,flat,0
+56,female,non-anginal pain,120,279,lower_than_120mg/ml,normal,150,no,1.0,downsloping,1
+39,male,asymptomatic,110,273,lower_than_120mg/ml,normal,132,no,0.0,flat,0
+42,male,non-anginal pain,120,198,lower_than_120mg/ml,normal,155,no,0.0,flat,0
+43,female,non-anginal pain,120,249,lower_than_120mg/ml,st-t_wave_abnormality,176,no,0.0,flat,0
+50,male,non-anginal pain,120,168,lower_than_120mg/ml,normal,160,no,0.0,flat,0
+54,male,asymptomatic,130,603,greater_than_120mg/ml,normal,125,yes,1.0,downsloping,1
+39,male,non-anginal pain,130,215,lower_than_120mg/ml,normal,120,no,0.0,flat,0
+48,male,non-anginal pain,100,159,lower_than_120mg/ml,normal,100,no,0.0,flat,0
+40,male,non-anginal pain,130,275,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+55,male,asymptomatic,120,270,lower_than_120mg/ml,normal,140,no,0.0,flat,0
+41,male,non-anginal pain,120,291,lower_than_120mg/ml,st-t_wave_abnormality,160,no,0.0,flat,0
+56,male,asymptomatic,155,342,greater_than_120mg/ml,normal,150,yes,3.0,downsloping,1
+38,male,asymptomatic,110,190,lower_than_120mg/ml,normal,150,yes,1.0,downsloping,1
+49,male,asymptomatic,140,185,lower_than_120mg/ml,normal,130,no,0.0,flat,0
+44,male,asymptomatic,130,290,lower_than_120mg/ml,normal,100,yes,2.0,downsloping,1
+54,male,non-anginal pain,160,195,lower_than_120mg/ml,st-t_wave_abnormality,130,no,1.0,flat,0
+59,male,asymptomatic,140,264,greater_than_120mg/ml,left_ventricular_hypertrophy,119,yes,0.0,downsloping,1
+49,male,asymptomatic,128,212,lower_than_120mg/ml,normal,96,yes,0.0,downsloping,1
+47,male,non-anginal pain,160,263,lower_than_120mg/ml,normal,174,no,0.0,flat,0
+42,male,non-anginal pain,120,196,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+52,female,non-anginal pain,140,225,lower_than_120mg/ml,normal,140,no,0.0,flat,0
+46,male,atypical angina,140,272,greater_than_120mg/ml,normal,175,no,2.0,downsloping,1
+50,male,asymptomatic,140,231,lower_than_120mg/ml,st-t_wave_abnormality,140,yes,5.0,downsloping,1
+48,male,non-anginal pain,140,238,lower_than_120mg/ml,normal,118,no,0.0,flat,0
+58,male,asymptomatic,135,222,lower_than_120mg/ml,normal,100,no,0.0,flat,0
+58,male,asymptomatic,140,179,lower_than_120mg/ml,normal,160,no,0.0,flat,0
+29,male,non-anginal pain,120,243,lower_than_120mg/ml,normal,160,no,0.0,flat,0
+40,male,asymptomatic,140,235,lower_than_120mg/ml,normal,188,no,0.0,flat,0
+53,male,non-anginal pain,140,320,lower_than_120mg/ml,normal,162,no,0.0,flat,0
+49,male,asymptomatic,140,187,lower_than_120mg/ml,normal,172,no,0.0,flat,0
+52,male,asymptomatic,140,266,lower_than_120mg/ml,normal,134,yes,2.0,downsloping,1
+43,male,asymptomatic,140,288,lower_than_120mg/ml,normal,135,yes,2.0,downsloping,1
+54,male,asymptomatic,140,216,lower_than_120mg/ml,normal,105,no,1.5,downsloping,1
+59,male,non-anginal pain,140,287,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+37,male,asymptomatic,130,194,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+46,female,asymptomatic,130,238,lower_than_120mg/ml,normal,90,no,0.0,flat,0
+52,male,asymptomatic,130,225,lower_than_120mg/ml,normal,120,yes,2.0,downsloping,1
+51,male,non-anginal pain,130,224,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+52,male,asymptomatic,140,404,lower_than_120mg/ml,normal,124,yes,2.0,downsloping,1
+46,male,asymptomatic,110,238,lower_than_120mg/ml,st-t_wave_abnormality,140,yes,1.0,downsloping,0
+54,female,non-anginal pain,160,312,lower_than_120mg/ml,normal,130,no,0.0,flat,0
+58,male,asymptomatic,160,211,greater_than_120mg/ml,st-t_wave_abnormality,92,no,0.0,downsloping,1
+58,male,non-anginal pain,130,251,lower_than_120mg/ml,normal,110,no,0.0,flat,0
+41,male,asymptomatic,120,237,greater_than_120mg/ml,normal,138,yes,1.0,downsloping,1
+50,female,asymptomatic,120,328,lower_than_120mg/ml,normal,110,yes,1.0,downsloping,0
+53,male,asymptomatic,180,285,lower_than_120mg/ml,st-t_wave_abnormality,120,yes,1.5,downsloping,1
+46,male,asymptomatic,180,280,lower_than_120mg/ml,st-t_wave_abnormality,120,no,0.0,flat,0
+50,male,non-anginal pain,170,209,lower_than_120mg/ml,st-t_wave_abnormality,116,no,0.0,flat,0
+48,male,non-anginal pain,130,245,lower_than_120mg/ml,normal,160,no,0.0,flat,0
+45,male,asymptomatic,135,192,lower_than_120mg/ml,normal,110,no,0.0,flat,0
+41,female,non-anginal pain,125,184,lower_than_120mg/ml,normal,180,no,0.0,flat,0
+62,female,atypical angina,160,193,lower_than_120mg/ml,normal,116,no,0.0,flat,0
+49,male,asymptomatic,120,297,lower_than_120mg/ml,normal,132,no,1.0,downsloping,0
+42,male,non-anginal pain,150,268,lower_than_120mg/ml,normal,136,no,0.0,flat,0
+53,male,asymptomatic,120,246,lower_than_120mg/ml,normal,116,yes,0.0,downsloping,1
+57,female,atypical angina,130,308,lower_than_120mg/ml,normal,98,no,1.0,downsloping,0
+47,male,atypical angina,110,249,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+46,male,asymptomatic,120,230,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+42,male,asymptomatic,160,147,lower_than_120mg/ml,normal,146,no,0.0,flat,0
+31,female,non-anginal pain,100,219,lower_than_120mg/ml,st-t_wave_abnormality,150,no,0.0,flat,0
+56,male,non-anginal pain,130,184,lower_than_120mg/ml,normal,100,no,0.0,flat,0
+50,male,asymptomatic,150,215,lower_than_120mg/ml,normal,140,yes,0.0,flat,0
+35,male,non-anginal pain,120,308,lower_than_120mg/ml,left_ventricular_hypertrophy,180,no,0.0,flat,0
+35,male,non-anginal pain,110,257,lower_than_120mg/ml,normal,140,no,0.0,downsloping,1
+28,male,non-anginal pain,130,132,lower_than_120mg/ml,left_ventricular_hypertrophy,185,no,0.0,flat,0
+54,male,asymptomatic,125,216,lower_than_120mg/ml,normal,140,no,0.0,downsloping,1
+48,male,asymptomatic,106,263,greater_than_120mg/ml,normal,110,no,0.0,downsloping,1
+50,female,asymptomatic,140,288,lower_than_120mg/ml,normal,140,yes,0.0,downsloping,1
+56,male,asymptomatic,130,276,lower_than_120mg/ml,normal,128,yes,1.0,flat,0
+56,female,asymptomatic,130,219,lower_than_120mg/ml,st-t_wave_abnormality,164,no,0.0,flat,0
+47,male,asymptomatic,150,226,lower_than_120mg/ml,normal,98,yes,1.5,downsloping,1
+30,female,atypical angina,170,237,lower_than_120mg/ml,st-t_wave_abnormality,170,no,0.0,flat,0
+39,male,asymptomatic,110,280,lower_than_120mg/ml,normal,150,no,0.0,downsloping,1
+54,male,asymptomatic,120,217,lower_than_120mg/ml,normal,137,no,0.0,flat,0
+55,male,non-anginal pain,140,196,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+29,male,non-anginal pain,140,263,lower_than_120mg/ml,normal,170,no,0.0,flat,0
+46,male,asymptomatic,130,222,lower_than_120mg/ml,normal,112,no,0.0,downsloping,1
+51,female,asymptomatic,160,303,lower_than_120mg/ml,normal,150,yes,1.0,downsloping,1
+48,female,asymptomatic,120,195,lower_than_120mg/ml,normal,125,no,0.0,flat,0
+33,male,asymptomatic,120,298,lower_than_120mg/ml,normal,185,no,0.0,flat,0
+55,male,non-anginal pain,120,256,greater_than_120mg/ml,normal,137,no,0.0,flat,0
+50,male,asymptomatic,145,264,lower_than_120mg/ml,normal,150,no,0.0,downsloping,1
+53,male,asymptomatic,120,195,lower_than_120mg/ml,normal,140,no,0.0,flat,0
+38,male,asymptomatic,92,117,lower_than_120mg/ml,normal,134,yes,2.5,downsloping,1
+41,male,non-anginal pain,120,295,lower_than_120mg/ml,normal,170,no,0.0,flat,0
+37,female,asymptomatic,130,173,lower_than_120mg/ml,st-t_wave_abnormality,184,no,0.0,flat,0
+37,male,asymptomatic,130,315,lower_than_120mg/ml,normal,158,no,0.0,flat,0
+40,male,asymptomatic,130,281,lower_than_120mg/ml,normal,167,no,0.0,flat,0
+38,female,non-anginal pain,120,275,lower_than_120mg/ml,normal,129,no,0.0,flat,0
+41,male,asymptomatic,112,250,lower_than_120mg/ml,normal,142,no,0.0,flat,0
+54,female,non-anginal pain,140,309,lower_than_120mg/ml,st-t_wave_abnormality,140,no,0.0,flat,0
+39,male,non-anginal pain,120,200,lower_than_120mg/ml,normal,160,yes,1.0,downsloping,0
+41,male,asymptomatic,120,336,lower_than_120mg/ml,normal,118,yes,3.0,downsloping,1
+55,male,atypical angina,140,295,lower_than_120mg/ml,normal,136,no,0.0,downsloping,1
+48,male,asymptomatic,160,355,lower_than_120mg/ml,normal,99,yes,2.0,downsloping,1
+48,male,asymptomatic,160,193,lower_than_120mg/ml,normal,102,yes,3.0,downsloping,1
+55,male,non-anginal pain,145,326,lower_than_120mg/ml,normal,155,no,0.0,flat,0
+54,male,asymptomatic,200,198,lower_than_120mg/ml,normal,142,yes,2.0,downsloping,1
+55,male,non-anginal pain,160,292,greater_than_120mg/ml,normal,143,yes,2.0,downsloping,1
+43,female,non-anginal pain,120,266,lower_than_120mg/ml,normal,118,no,0.0,flat,0
+48,male,asymptomatic,160,268,lower_than_120mg/ml,normal,103,yes,1.0,downsloping,1
+54,male,atypical angina,120,171,lower_than_120mg/ml,normal,137,no,2.0,flat,0
+54,male,asymptomatic,120,237,lower_than_120mg/ml,normal,150,yes,1.5,downsloping,1
+48,male,asymptomatic,122,275,greater_than_120mg/ml,st-t_wave_abnormality,150,yes,2.0,downsloping,1
+45,male,asymptomatic,130,219,lower_than_120mg/ml,st-t_wave_abnormality,130,yes,1.0,downsloping,1
+49,male,asymptomatic,130,341,lower_than_120mg/ml,normal,120,yes,1.0,downsloping,1
+44,male,asymptomatic,135,491,lower_than_120mg/ml,normal,135,no,0.0,downsloping,1
+48,male,asymptomatic,120,260,lower_than_120mg/ml,normal,115,no,2.0,downsloping,1
+61,male,asymptomatic,125,292,lower_than_120mg/ml,st-t_wave_abnormality,115,yes,0.0,flat,0
+62,male,non-anginal pain,140,271,lower_than_120mg/ml,normal,152,no,1.0,flat,0
+55,male,asymptomatic,145,248,lower_than_120mg/ml,normal,96,yes,2.0,downsloping,1
+53,female,asymptomatic,120,274,lower_than_120mg/ml,normal,130,no,0.0,flat,0
+55,female,non-anginal pain,130,394,lower_than_120mg/ml,left_ventricular_hypertrophy,150,no,0.0,flat,0
+36,male,asymptomatic,150,160,lower_than_120mg/ml,normal,172,no,0.0,flat,0
+51,female,asymptomatic,150,200,lower_than_120mg/ml,normal,120,no,0.5,flat,0
+55,female,non-anginal pain,122,320,lower_than_120mg/ml,normal,155,no,0.0,flat,0
+46,male,non-anginal pain,140,275,lower_than_120mg/ml,normal,165,yes,0.0,flat,0
+54,female,non-anginal pain,120,221,lower_than_120mg/ml,normal,138,no,1.0,flat,0
+46,male,asymptomatic,120,231,lower_than_120mg/ml,normal,115,yes,0.0,downsloping,1
+59,male,asymptomatic,130,126,lower_than_120mg/ml,normal,125,no,0.0,downsloping,1
+47,male,asymptomatic,140,193,lower_than_120mg/ml,normal,145,yes,1.0,downsloping,1
+54,male,non-anginal pain,160,305,lower_than_120mg/ml,normal,175,no,0.0,flat,0
+52,male,asymptomatic,130,298,lower_than_120mg/ml,normal,110,yes,1.0,downsloping,1
+34,male,non-anginal pain,98,220,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+54,male,asymptomatic,130,242,lower_than_120mg/ml,normal,91,yes,1.0,downsloping,1
+47,female,asymptomatic,130,235,lower_than_120mg/ml,normal,145,no,2.0,downsloping,0
+45,male,asymptomatic,120,225,lower_than_120mg/ml,normal,140,no,0.0,flat,0
+32,female,non-anginal pain,105,198,lower_than_120mg/ml,normal,165,no,0.0,flat,0
+55,male,asymptomatic,140,201,lower_than_120mg/ml,normal,130,yes,3.0,downsloping,1
+55,male,asymptomatic,120,220,lower_than_120mg/ml,left_ventricular_hypertrophy,134,no,0.0,flat,0
+45,female,non-anginal pain,180,295,lower_than_120mg/ml,normal,180,no,0.0,flat,0
+59,male,asymptomatic,180,213,lower_than_120mg/ml,normal,100,no,0.0,flat,0
+51,male,asymptomatic,135,160,lower_than_120mg/ml,normal,150,no,2.0,downsloping,1
+52,male,asymptomatic,170,223,lower_than_120mg/ml,normal,126,yes,1.5,downsloping,1
+57,female,asymptomatic,180,347,lower_than_120mg/ml,st-t_wave_abnormality,126,yes,0.8,downsloping,0
+54,female,non-anginal pain,130,253,lower_than_120mg/ml,st-t_wave_abnormality,155,no,0.0,flat,0
+60,male,asymptomatic,120,246,lower_than_120mg/ml,left_ventricular_hypertrophy,135,no,0.0,flat,0
+49,male,asymptomatic,150,222,lower_than_120mg/ml,normal,122,no,2.0,downsloping,1
+51,female,asymptomatic,130,220,lower_than_120mg/ml,normal,160,yes,2.0,flat,0
+55,female,non-anginal pain,110,344,lower_than_120mg/ml,st-t_wave_abnormality,160,no,0.0,flat,0
+42,male,asymptomatic,140,358,lower_than_120mg/ml,normal,170,no,0.0,flat,0
+51,female,asymptomatic,110,190,lower_than_120mg/ml,normal,120,no,0.0,flat,0
+59,male,asymptomatic,140,169,lower_than_120mg/ml,normal,140,no,0.0,flat,0
+53,male,non-anginal pain,120,181,lower_than_120mg/ml,normal,132,no,0.0,flat,0
+48,female,non-anginal pain,133,308,lower_than_120mg/ml,st-t_wave_abnormality,156,no,2.0,flat,0
+36,male,non-anginal pain,120,166,lower_than_120mg/ml,normal,180,no,0.0,flat,0
+48,male,asymptomatic,110,211,lower_than_120mg/ml,normal,138,no,0.0,flat,0
+47,female,non-anginal pain,140,257,lower_than_120mg/ml,normal,135,no,1.0,flat,0
+53,male,asymptomatic,130,182,lower_than_120mg/ml,normal,148,no,0.0,flat,0
+65,male,asymptomatic,115,245,lower_than_120mg/ml,normal,93,yes,0.0,downsloping,1
+32,male,atypical angina,95,245,greater_than_120mg/ml,normal,127,no,0.7,flat,1
+61,male,asymptomatic,105,245,greater_than_120mg/ml,normal,110,yes,1.5,flat,1
+50,male,asymptomatic,145,245,greater_than_120mg/ml,normal,139,yes,0.7,downsloping,1
+57,male,asymptomatic,110,245,greater_than_120mg/ml,st-t_wave_abnormality,131,yes,1.4,flat,1
+51,male,asymptomatic,110,245,greater_than_120mg/ml,normal,92,no,0.0,downsloping,1
+47,male,asymptomatic,110,245,greater_than_120mg/ml,st-t_wave_abnormality,149,no,2.1,flat,1
+60,male,asymptomatic,160,245,greater_than_120mg/ml,normal,149,no,0.4,downsloping,1
+55,male,non-anginal pain,140,245,lower_than_120mg/ml,st-t_wave_abnormality,150,no,0.2,flat,0
+53,male,asymptomatic,125,245,greater_than_120mg/ml,normal,120,no,1.5,flat,1
+62,female,asymptomatic,120,245,greater_than_120mg/ml,st-t_wave_abnormality,123,yes,1.7,downsloping,1
+51,male,asymptomatic,95,245,greater_than_120mg/ml,normal,126,no,2.2,downsloping,1
+51,female,asymptomatic,120,245,greater_than_120mg/ml,normal,127,yes,1.5,flat,1
+55,male,asymptomatic,115,245,greater_than_120mg/ml,normal,155,no,0.1,downsloping,1
+53,male,non-anginal pain,130,245,lower_than_120mg/ml,st-t_wave_abnormality,120,no,0.7,downsloping,0
+58,male,asymptomatic,115,245,greater_than_120mg/ml,normal,138,no,0.5,flat,1
+57,male,asymptomatic,95,245,greater_than_120mg/ml,normal,182,no,0.7,downsloping,1
+65,male,asymptomatic,155,245,lower_than_120mg/ml,normal,154,no,1.0,flat,0
+60,male,asymptomatic,125,245,greater_than_120mg/ml,normal,110,no,0.1,flat,1
+41,male,asymptomatic,125,245,greater_than_120mg/ml,normal,176,no,1.6,flat,1
+34,male,asymptomatic,115,245,greater_than_120mg/ml,normal,154,no,0.2,flat,1
+53,male,asymptomatic,80,245,lower_than_120mg/ml,normal,141,yes,2.0,downsloping,0
+74,male,non-anginal pain,145,245,greater_than_120mg/ml,st-t_wave_abnormality,123,no,1.3,flat,1
+57,male,asymptomatic,105,245,greater_than_120mg/ml,normal,148,no,0.3,downsloping,1
+56,male,asymptomatic,140,245,greater_than_120mg/ml,normal,121,yes,1.8,flat,1
+61,male,asymptomatic,130,245,greater_than_120mg/ml,normal,77,no,2.5,downsloping,1
+68,male,asymptomatic,145,245,greater_than_120mg/ml,normal,136,no,1.8,flat,1
+59,male,asymptomatic,125,245,greater_than_120mg/ml,normal,175,no,2.6,downsloping,1
+63,male,asymptomatic,100,245,greater_than_120mg/ml,normal,109,no,-0.9,downsloping,1
+38,female,asymptomatic,105,245,greater_than_120mg/ml,normal,166,no,2.8,flat,1
+62,male,asymptomatic,115,245,greater_than_120mg/ml,normal,128,yes,2.5,downsloping,1
+46,male,asymptomatic,100,245,greater_than_120mg/ml,st-t_wave_abnormality,133,no,-2.6,downsloping,1
+42,male,asymptomatic,105,245,greater_than_120mg/ml,normal,128,yes,-1.5,downsloping,1
+45,male,asymptomatic,110,245,lower_than_120mg/ml,normal,138,no,-0.1,flat,0
+59,male,asymptomatic,125,245,greater_than_120mg/ml,normal,119,yes,0.9,flat,1
+52,male,asymptomatic,95,245,greater_than_120mg/ml,normal,82,yes,0.8,downsloping,1
+60,male,asymptomatic,130,245,greater_than_120mg/ml,st-t_wave_abnormality,130,yes,1.1,downsloping,1
+60,male,asymptomatic,115,245,greater_than_120mg/ml,normal,143,no,2.4,flat,1
+56,male,asymptomatic,115,245,greater_than_120mg/ml,st-t_wave_abnormality,82,no,-1.0,flat,1
+38,male,asymptomatic,100,245,lower_than_120mg/ml,normal,179,no,-1.1,flat,0
+40,male,asymptomatic,95,245,greater_than_120mg/ml,st-t_wave_abnormality,144,no,0.0,flat,1
+51,male,asymptomatic,130,245,greater_than_120mg/ml,normal,170,no,-0.7,flat,1
+62,male,atypical angina,120,245,greater_than_120mg/ml,left_ventricular_hypertrophy,134,no,-0.8,downsloping,1
+72,male,asymptomatic,160,245,lower_than_120mg/ml,left_ventricular_hypertrophy,114,no,1.6,downsloping,0
+63,male,asymptomatic,150,245,greater_than_120mg/ml,st-t_wave_abnormality,154,no,3.7,flat,1
+63,male,asymptomatic,140,245,greater_than_120mg/ml,left_ventricular_hypertrophy,149,no,2.0,flat,1
+64,female,asymptomatic,95,245,greater_than_120mg/ml,normal,145,no,1.1,downsloping,1
+43,male,asymptomatic,100,245,greater_than_120mg/ml,normal,122,no,1.5,downsloping,1
+64,male,asymptomatic,110,245,greater_than_120mg/ml,normal,114,yes,1.3,downsloping,1
+61,male,asymptomatic,110,245,greater_than_120mg/ml,normal,113,no,1.4,downsloping,1
+52,male,asymptomatic,130,245,greater_than_120mg/ml,normal,120,no,0.0,downsloping,1
+51,male,asymptomatic,120,245,greater_than_120mg/ml,normal,104,no,0.0,downsloping,1
+69,male,asymptomatic,135,245,lower_than_120mg/ml,normal,130,no,0.0,downsloping,1
+59,male,asymptomatic,120,245,lower_than_120mg/ml,normal,115,no,0.0,downsloping,1
+48,male,asymptomatic,115,245,greater_than_120mg/ml,normal,128,no,0.0,downsloping,1
+69,male,asymptomatic,137,245,lower_than_120mg/ml,st-t_wave_abnormality,104,yes,1.6,downsloping,1
+36,male,asymptomatic,110,245,greater_than_120mg/ml,normal,125,yes,1.0,downsloping,1
+53,male,asymptomatic,120,245,greater_than_120mg/ml,normal,120,no,0.0,downsloping,1
+43,male,asymptomatic,140,245,lower_than_120mg/ml,st-t_wave_abnormality,140,yes,0.5,flat,1
+56,male,asymptomatic,120,245,lower_than_120mg/ml,st-t_wave_abnormality,100,yes,-1.0,downsloping,1
+58,male,asymptomatic,130,245,lower_than_120mg/ml,st-t_wave_abnormality,100,yes,1.0,downsloping,1
+55,male,asymptomatic,120,245,lower_than_120mg/ml,st-t_wave_abnormality,92,no,0.3,flat,1
+67,male,atypical angina,145,245,lower_than_120mg/ml,left_ventricular_hypertrophy,125,no,0.0,downsloping,1
+46,male,asymptomatic,115,245,lower_than_120mg/ml,normal,113,yes,1.5,downsloping,1
+53,male,non-anginal pain,120,245,lower_than_120mg/ml,normal,95,no,0.0,downsloping,1
+38,male,asymptomatic,115,245,lower_than_120mg/ml,normal,128,yes,0.0,downsloping,1
+53,male,asymptomatic,105,245,lower_than_120mg/ml,normal,115,no,0.0,downsloping,1
+62,male,asymptomatic,160,245,lower_than_120mg/ml,normal,72,yes,0.0,downsloping,1
+47,male,asymptomatic,160,245,lower_than_120mg/ml,normal,124,yes,0.0,downsloping,1
+56,male,asymptomatic,155,245,lower_than_120mg/ml,st-t_wave_abnormality,99,no,0.0,downsloping,1
+56,male,asymptomatic,120,245,lower_than_120mg/ml,st-t_wave_abnormality,148,no,0.0,downsloping,1
+56,male,asymptomatic,120,245,lower_than_120mg/ml,normal,97,no,0.0,downsloping,0
+64,female,asymptomatic,200,245,lower_than_120mg/ml,normal,140,yes,1.0,downsloping,1
+61,male,asymptomatic,150,245,lower_than_120mg/ml,normal,117,yes,2.0,downsloping,1
+68,male,asymptomatic,135,245,lower_than_120mg/ml,st-t_wave_abnormality,120,yes,0.0,flat,1
+57,male,asymptomatic,140,245,lower_than_120mg/ml,normal,120,yes,2.0,downsloping,1
+63,male,asymptomatic,150,245,lower_than_120mg/ml,normal,86,yes,2.0,downsloping,1
+60,male,asymptomatic,135,245,lower_than_120mg/ml,normal,63,yes,0.5,flat,1
+66,male,asymptomatic,150,245,lower_than_120mg/ml,normal,108,yes,2.0,downsloping,1
+63,male,asymptomatic,185,245,lower_than_120mg/ml,normal,98,yes,0.0,flat,1
+59,male,asymptomatic,135,245,lower_than_120mg/ml,normal,115,yes,1.0,downsloping,1
+61,male,asymptomatic,125,245,lower_than_120mg/ml,normal,105,yes,0.0,downsloping,1
+73,female,asymptomatic,160,245,lower_than_120mg/ml,st-t_wave_abnormality,121,no,0.0,flat,1
+47,male,asymptomatic,155,245,lower_than_120mg/ml,normal,118,yes,1.0,downsloping,1
+65,male,asymptomatic,160,245,greater_than_120mg/ml,st-t_wave_abnormality,122,no,1.2,downsloping,1
+70,male,asymptomatic,140,245,greater_than_120mg/ml,normal,157,yes,2.0,downsloping,1
+50,male,asymptomatic,120,245,lower_than_120mg/ml,st-t_wave_abnormality,156,yes,0.0,flat,1
+60,male,asymptomatic,160,245,lower_than_120mg/ml,st-t_wave_abnormality,99,yes,0.5,downsloping,1
+50,male,asymptomatic,115,245,lower_than_120mg/ml,normal,120,yes,0.5,downsloping,1
+43,male,asymptomatic,115,245,lower_than_120mg/ml,normal,145,yes,2.0,downsloping,1
+38,female,asymptomatic,110,245,lower_than_120mg/ml,normal,156,no,0.0,downsloping,1
+54,male,asymptomatic,120,245,lower_than_120mg/ml,normal,155,no,0.0,downsloping,1
+61,male,asymptomatic,150,245,lower_than_120mg/ml,normal,105,yes,0.0,downsloping,1
+42,male,asymptomatic,145,245,lower_than_120mg/ml,normal,99,yes,0.0,downsloping,1
+53,male,asymptomatic,130,245,lower_than_120mg/ml,left_ventricular_hypertrophy,135,yes,1.0,downsloping,1
+55,male,asymptomatic,140,245,lower_than_120mg/ml,normal,83,no,0.0,downsloping,1
+61,male,asymptomatic,160,245,greater_than_120mg/ml,st-t_wave_abnormality,145,no,1.0,downsloping,1
+51,male,asymptomatic,140,245,lower_than_120mg/ml,normal,60,no,0.0,downsloping,1
+70,male,asymptomatic,115,245,lower_than_120mg/ml,st-t_wave_abnormality,92,yes,0.0,downsloping,1
+61,male,asymptomatic,130,245,lower_than_120mg/ml,left_ventricular_hypertrophy,115,no,0.0,downsloping,1
+38,male,asymptomatic,150,245,greater_than_120mg/ml,normal,120,yes,0.7,downsloping,1
+57,male,asymptomatic,160,245,greater_than_120mg/ml,normal,98,yes,2.0,downsloping,1
+38,male,asymptomatic,135,245,greater_than_120mg/ml,normal,150,no,0.0,downsloping,1
+62,female,atypical angina,140,245,greater_than_120mg/ml,normal,143,no,0.0,downsloping,1
+58,male,asymptomatic,170,245,greater_than_120mg/ml,st-t_wave_abnormality,105,yes,0.0,downsloping,1
+52,male,asymptomatic,165,245,greater_than_120mg/ml,normal,122,yes,1.0,flat,1
+61,male,asymptomatic,200,245,greater_than_120mg/ml,st-t_wave_abnormality,70,no,0.0,downsloping,1
+50,female,asymptomatic,160,245,greater_than_120mg/ml,normal,110,no,0.0,downsloping,1
+51,male,asymptomatic,130,245,greater_than_120mg/ml,st-t_wave_abnormality,163,no,0.0,downsloping,1
+65,male,asymptomatic,145,245,greater_than_120mg/ml,st-t_wave_abnormality,67,no,0.7,downsloping,1
+52,male,asymptomatic,135,245,greater_than_120mg/ml,normal,128,yes,2.0,downsloping,1
+47,male,asymptomatic,110,245,greater_than_120mg/ml,normal,120,yes,0.0,downsloping,1
+35,male,asymptomatic,120,245,greater_than_120mg/ml,normal,130,yes,1.2,downsloping,1
+57,male,asymptomatic,140,245,greater_than_120mg/ml,normal,100,yes,0.0,downsloping,1
+62,male,asymptomatic,115,245,greater_than_120mg/ml,normal,72,yes,-0.5,downsloping,1
+59,male,asymptomatic,110,245,greater_than_120mg/ml,normal,94,no,0.0,downsloping,1
+53,male,asymptomatic,160,245,greater_than_120mg/ml,left_ventricular_hypertrophy,122,yes,0.0,downsloping,1
+62,male,asymptomatic,150,245,greater_than_120mg/ml,st-t_wave_abnormality,78,no,2.0,downsloping,1
+54,male,asymptomatic,180,245,greater_than_120mg/ml,normal,150,no,1.5,downsloping,1
+56,male,asymptomatic,125,245,greater_than_120mg/ml,normal,103,yes,1.0,downsloping,1
+56,male,asymptomatic,125,245,greater_than_120mg/ml,normal,98,no,-2.0,downsloping,1
+54,male,asymptomatic,130,245,greater_than_120mg/ml,normal,110,yes,3.0,downsloping,1
+66,female,asymptomatic,155,245,greater_than_120mg/ml,normal,90,no,0.0,downsloping,1
+63,male,asymptomatic,140,260,lower_than_120mg/ml,st-t_wave_abnormality,112,yes,3.0,downsloping,1
+44,male,asymptomatic,130,209,lower_than_120mg/ml,st-t_wave_abnormality,127,no,0.0,flat,0
+60,male,asymptomatic,132,218,lower_than_120mg/ml,st-t_wave_abnormality,140,yes,1.5,downsloping,1
+55,male,asymptomatic,142,228,lower_than_120mg/ml,st-t_wave_abnormality,149,yes,2.5,flat,1
+66,male,asymptomatic,110,213,greater_than_120mg/ml,left_ventricular_hypertrophy,99,yes,1.3,downsloping,0
+66,male,asymptomatic,120,245,lower_than_120mg/ml,st-t_wave_abnormality,120,no,-0.5,flat,0
+65,male,asymptomatic,150,236,greater_than_120mg/ml,st-t_wave_abnormality,105,yes,0.0,downsloping,1
+60,male,asymptomatic,180,245,lower_than_120mg/ml,st-t_wave_abnormality,140,yes,1.5,downsloping,0
+60,male,asymptomatic,120,245,greater_than_120mg/ml,normal,141,yes,2.0,flat,1
+60,male,non-anginal pain,160,267,greater_than_120mg/ml,st-t_wave_abnormality,157,no,0.5,downsloping,1
+56,male,non-anginal pain,126,166,lower_than_120mg/ml,st-t_wave_abnormality,140,no,0.0,flat,0
+59,male,asymptomatic,140,245,lower_than_120mg/ml,st-t_wave_abnormality,117,yes,1.0,downsloping,1
+62,male,asymptomatic,110,245,lower_than_120mg/ml,normal,120,yes,0.5,downsloping,1
+63,male,asymptomatic,133,245,lower_than_120mg/ml,left_ventricular_hypertrophy,120,yes,1.0,downsloping,1
+57,male,asymptomatic,128,245,greater_than_120mg/ml,st-t_wave_abnormality,148,yes,1.0,downsloping,1
+62,male,asymptomatic,120,220,lower_than_120mg/ml,st-t_wave_abnormality,86,no,0.0,flat,0
+63,male,asymptomatic,170,177,lower_than_120mg/ml,normal,84,yes,2.5,downsloping,1
+46,male,asymptomatic,110,236,lower_than_120mg/ml,normal,125,yes,2.0,downsloping,1
+63,male,asymptomatic,126,245,lower_than_120mg/ml,st-t_wave_abnormality,120,no,1.5,downsloping,0
+60,male,asymptomatic,152,245,lower_than_120mg/ml,st-t_wave_abnormality,118,yes,0.0,flat,0
+58,male,asymptomatic,116,245,lower_than_120mg/ml,normal,124,no,1.0,flat,1
+64,male,asymptomatic,120,245,greater_than_120mg/ml,st-t_wave_abnormality,106,no,2.0,downsloping,1
+63,male,asymptomatic,130,245,lower_than_120mg/ml,st-t_wave_abnormality,111,yes,0.0,downsloping,1
+74,male,asymptomatic,138,245,lower_than_120mg/ml,normal,116,no,0.2,flat,0
+52,male,asymptomatic,128,245,lower_than_120mg/ml,st-t_wave_abnormality,180,no,3.0,flat,1
+69,male,asymptomatic,130,245,greater_than_120mg/ml,st-t_wave_abnormality,129,no,1.0,downsloping,1
+51,male,asymptomatic,128,245,greater_than_120mg/ml,st-t_wave_abnormality,125,yes,1.2,downsloping,1
+60,male,asymptomatic,130,186,greater_than_120mg/ml,st-t_wave_abnormality,140,yes,0.5,downsloping,1
+56,male,asymptomatic,120,100,lower_than_120mg/ml,normal,120,yes,1.5,downsloping,1
+55,male,asymptomatic,136,228,lower_than_120mg/ml,st-t_wave_abnormality,124,yes,1.6,downsloping,1
+54,male,asymptomatic,130,245,lower_than_120mg/ml,st-t_wave_abnormality,117,yes,1.4,downsloping,1
+77,male,asymptomatic,124,171,lower_than_120mg/ml,st-t_wave_abnormality,110,yes,2.0,flat,1
+63,male,asymptomatic,160,230,greater_than_120mg/ml,normal,105,yes,1.0,downsloping,1
+55,male,asymptomatic,132,245,lower_than_120mg/ml,normal,155,no,1.5,downsloping,1
+52,male,asymptomatic,122,245,lower_than_120mg/ml,normal,110,yes,2.0,downsloping,1
+64,male,asymptomatic,144,245,lower_than_120mg/ml,st-t_wave_abnormality,122,yes,1.0,downsloping,1
+60,male,asymptomatic,140,281,lower_than_120mg/ml,st-t_wave_abnormality,118,yes,1.5,downsloping,1
+60,male,asymptomatic,120,245,lower_than_120mg/ml,normal,133,yes,2.0,flat,0
+58,male,asymptomatic,136,203,greater_than_120mg/ml,normal,123,yes,1.2,downsloping,1
+59,male,asymptomatic,154,245,lower_than_120mg/ml,st-t_wave_abnormality,131,yes,1.5,flat,0
+61,male,asymptomatic,120,245,lower_than_120mg/ml,normal,80,yes,0.0,downsloping,1
+40,male,asymptomatic,125,245,greater_than_120mg/ml,normal,165,no,0.0,downsloping,1
+61,male,asymptomatic,134,245,greater_than_120mg/ml,st-t_wave_abnormality,86,no,1.5,downsloping,1
+41,male,asymptomatic,104,245,lower_than_120mg/ml,st-t_wave_abnormality,111,no,0.0,flat,0
+57,male,asymptomatic,139,277,greater_than_120mg/ml,st-t_wave_abnormality,118,yes,1.9,downsloping,1
+63,male,asymptomatic,136,245,lower_than_120mg/ml,normal,84,yes,0.0,downsloping,1
+59,male,asymptomatic,122,233,lower_than_120mg/ml,normal,117,yes,1.3,downsloping,1
+51,male,asymptomatic,128,245,lower_than_120mg/ml,normal,107,no,0.0,flat,0
+59,male,asymptomatic,131,245,lower_than_120mg/ml,normal,128,yes,2.0,downsloping,1
+42,male,asymptomatic,134,240,lower_than_120mg/ml,normal,160,no,0.0,flat,0
+55,male,asymptomatic,120,245,lower_than_120mg/ml,st-t_wave_abnormality,125,yes,2.5,downsloping,1
+63,female,non-anginal pain,132,245,lower_than_120mg/ml,normal,130,no,0.1,flat,0
+62,male,asymptomatic,152,153,lower_than_120mg/ml,st-t_wave_abnormality,97,yes,1.6,flat,1
+56,male,non-anginal pain,124,224,greater_than_120mg/ml,normal,161,no,2.0,downsloping,0
+53,male,asymptomatic,126,245,lower_than_120mg/ml,normal,106,no,0.0,downsloping,1
+68,male,asymptomatic,138,245,lower_than_120mg/ml,normal,130,yes,3.0,downsloping,1
+53,male,asymptomatic,154,245,greater_than_120mg/ml,st-t_wave_abnormality,140,yes,1.5,downsloping,1
+60,male,asymptomatic,141,316,greater_than_120mg/ml,st-t_wave_abnormality,122,yes,1.7,downsloping,1
+62,male,non-anginal pain,131,245,lower_than_120mg/ml,normal,130,no,0.1,flat,0
+59,male,asymptomatic,178,245,greater_than_120mg/ml,left_ventricular_hypertrophy,120,yes,0.0,downsloping,1
+51,male,asymptomatic,132,218,greater_than_120mg/ml,left_ventricular_hypertrophy,139,no,0.1,flat,0
+61,male,asymptomatic,110,245,greater_than_120mg/ml,normal,108,yes,2.0,downsloping,1
+57,male,asymptomatic,130,311,greater_than_120mg/ml,st-t_wave_abnormality,148,yes,2.0,downsloping,1
+56,male,asymptomatic,170,245,lower_than_120mg/ml,left_ventricular_hypertrophy,123,yes,2.5,downsloping,1
+58,male,non-anginal pain,126,245,greater_than_120mg/ml,normal,110,yes,2.0,downsloping,1
+69,male,asymptomatic,140,245,greater_than_120mg/ml,st-t_wave_abnormality,118,no,2.5,downsloping,1
+67,male,atypical angina,142,270,greater_than_120mg/ml,normal,125,no,2.5,flat,1
+58,male,asymptomatic,120,245,lower_than_120mg/ml,left_ventricular_hypertrophy,106,yes,1.5,downsloping,1
+65,male,asymptomatic,134,245,lower_than_120mg/ml,normal,112,yes,1.1,downsloping,1
+63,male,non-anginal pain,139,217,greater_than_120mg/ml,st-t_wave_abnormality,128,yes,1.2,downsloping,1
+55,male,non-anginal pain,110,214,greater_than_120mg/ml,st-t_wave_abnormality,180,no,0.4,flat,0
+57,male,asymptomatic,140,214,lower_than_120mg/ml,st-t_wave_abnormality,144,yes,2.0,downsloping,1
+65,male,atypical angina,140,252,lower_than_120mg/ml,normal,135,no,0.3,flat,0
+54,male,asymptomatic,136,220,lower_than_120mg/ml,normal,140,yes,3.0,downsloping,1
+72,male,asymptomatic,120,214,lower_than_120mg/ml,normal,102,yes,1.0,downsloping,1
+75,male,asymptomatic,170,203,greater_than_120mg/ml,st-t_wave_abnormality,108,no,0.0,downsloping,1
+49,male,atypical angina,130,245,lower_than_120mg/ml,st-t_wave_abnormality,145,no,3.0,downsloping,1
+51,male,asymptomatic,137,339,lower_than_120mg/ml,normal,127,yes,1.7,downsloping,1
+60,male,asymptomatic,142,216,lower_than_120mg/ml,normal,110,yes,2.5,downsloping,1
+64,female,asymptomatic,142,276,lower_than_120mg/ml,normal,140,yes,1.0,downsloping,1
+58,male,asymptomatic,132,458,greater_than_120mg/ml,normal,69,no,1.0,downsloping,0
+61,male,asymptomatic,146,241,lower_than_120mg/ml,normal,148,yes,3.0,downsloping,1
+67,male,asymptomatic,160,384,greater_than_120mg/ml,st-t_wave_abnormality,130,yes,0.0,downsloping,1
+62,male,asymptomatic,135,297,lower_than_120mg/ml,normal,130,yes,1.0,downsloping,1
+65,male,asymptomatic,136,248,lower_than_120mg/ml,normal,140,yes,4.0,downsloping,1
+63,male,asymptomatic,130,308,lower_than_120mg/ml,normal,138,yes,2.0,downsloping,1
+69,male,asymptomatic,140,208,lower_than_120mg/ml,st-t_wave_abnormality,140,yes,2.0,downsloping,1
+51,male,asymptomatic,132,227,greater_than_120mg/ml,st-t_wave_abnormality,138,no,0.2,flat,0
+62,male,asymptomatic,158,210,greater_than_120mg/ml,normal,112,yes,3.0,downsloping,1
+55,male,asymptomatic,136,245,greater_than_120mg/ml,st-t_wave_abnormality,131,yes,1.2,downsloping,1
+75,male,asymptomatic,136,225,lower_than_120mg/ml,normal,112,yes,3.0,downsloping,1
+40,male,asymptomatic,106,240,lower_than_120mg/ml,normal,80,yes,0.0,flat,0
+67,male,asymptomatic,120,245,greater_than_120mg/ml,normal,150,no,1.5,downsloping,1
+58,male,asymptomatic,110,198,lower_than_120mg/ml,normal,110,no,0.0,downsloping,1
+60,male,asymptomatic,136,195,lower_than_120mg/ml,normal,126,no,0.3,flat,0
+63,male,asymptomatic,160,267,greater_than_120mg/ml,st-t_wave_abnormality,88,yes,2.0,downsloping,1
+35,male,asymptomatic,123,161,lower_than_120mg/ml,st-t_wave_abnormality,153,no,-0.1,flat,0
+62,male,atypical angina,112,258,lower_than_120mg/ml,st-t_wave_abnormality,150,yes,1.3,downsloping,1
+43,male,asymptomatic,122,245,lower_than_120mg/ml,normal,120,no,0.5,flat,1
+63,male,asymptomatic,130,245,greater_than_120mg/ml,st-t_wave_abnormality,160,no,3.0,downsloping,0
+68,male,asymptomatic,150,195,greater_than_120mg/ml,normal,132,no,0.0,downsloping,1
+65,male,asymptomatic,150,235,lower_than_120mg/ml,normal,120,yes,1.5,downsloping,1
+48,male,asymptomatic,102,245,greater_than_120mg/ml,st-t_wave_abnormality,110,yes,1.0,downsloping,1
+63,male,asymptomatic,96,305,lower_than_120mg/ml,st-t_wave_abnormality,121,yes,1.0,flat,1
+64,male,asymptomatic,130,223,lower_than_120mg/ml,st-t_wave_abnormality,128,no,0.5,downsloping,0
+61,male,asymptomatic,120,282,lower_than_120mg/ml,st-t_wave_abnormality,135,yes,4.0,downsloping,1
+50,male,asymptomatic,144,349,lower_than_120mg/ml,left_ventricular_hypertrophy,120,yes,1.0,flat,1
+59,male,asymptomatic,124,160,lower_than_120mg/ml,normal,117,yes,1.0,downsloping,1
+55,male,asymptomatic,150,160,lower_than_120mg/ml,st-t_wave_abnormality,150,no,0.0,flat,0
+45,male,asymptomatic,130,236,lower_than_120mg/ml,normal,144,no,0.1,flat,0
+65,male,asymptomatic,144,312,lower_than_120mg/ml,left_ventricular_hypertrophy,113,yes,1.7,downsloping,1
+61,male,non-anginal pain,139,283,lower_than_120mg/ml,normal,135,no,0.3,flat,0
+49,male,asymptomatic,131,142,lower_than_120mg/ml,normal,127,yes,1.5,downsloping,1
+72,male,asymptomatic,143,211,lower_than_120mg/ml,normal,109,yes,1.4,downsloping,1
+50,male,asymptomatic,133,218,lower_than_120mg/ml,normal,128,yes,1.1,downsloping,1
+64,male,asymptomatic,143,306,greater_than_120mg/ml,st-t_wave_abnormality,115,yes,1.8,downsloping,1
+55,male,asymptomatic,116,186,greater_than_120mg/ml,st-t_wave_abnormality,102,no,0.0,downsloping,1
+63,male,asymptomatic,110,252,lower_than_120mg/ml,st-t_wave_abnormality,140,yes,2.0,downsloping,1
+59,male,asymptomatic,125,222,lower_than_120mg/ml,normal,135,yes,2.5,downsloping,1
+56,male,asymptomatic,130,245,lower_than_120mg/ml,left_ventricular_hypertrophy,122,yes,1.0,downsloping,1
+62,male,asymptomatic,133,245,greater_than_120mg/ml,st-t_wave_abnormality,119,yes,1.2,downsloping,1
+74,male,asymptomatic,150,258,greater_than_120mg/ml,st-t_wave_abnormality,130,yes,4.0,downsloping,1
+54,male,asymptomatic,130,202,greater_than_120mg/ml,normal,112,yes,2.0,downsloping,1
+57,male,asymptomatic,110,197,lower_than_120mg/ml,left_ventricular_hypertrophy,100,no,0.0,flat,0
+62,male,asymptomatic,138,204,lower_than_120mg/ml,st-t_wave_abnormality,122,yes,1.2,downsloping,1
+76,male,asymptomatic,104,113,lower_than_120mg/ml,left_ventricular_hypertrophy,120,no,3.5,downsloping,1
+54,female,asymptomatic,138,274,lower_than_120mg/ml,normal,105,yes,1.5,downsloping,1
+70,male,asymptomatic,170,192,lower_than_120mg/ml,st-t_wave_abnormality,129,yes,3.0,downsloping,1
+61,female,non-anginal pain,140,298,greater_than_120mg/ml,normal,120,yes,0.0,flat,0
+48,male,asymptomatic,132,272,lower_than_120mg/ml,st-t_wave_abnormality,139,no,0.2,flat,0
+48,male,asymptomatic,132,220,greater_than_120mg/ml,st-t_wave_abnormality,162,no,0.0,downsloping,1
+61,male,atypical angina,142,200,greater_than_120mg/ml,st-t_wave_abnormality,100,no,1.5,downsloping,1
+66,male,asymptomatic,112,261,lower_than_120mg/ml,normal,140,no,1.5,flat,1
+68,male,atypical angina,139,181,greater_than_120mg/ml,st-t_wave_abnormality,135,no,0.2,flat,0
+55,male,asymptomatic,172,260,lower_than_120mg/ml,normal,73,no,2.0,downsloping,1
+62,male,asymptomatic,120,220,lower_than_120mg/ml,left_ventricular_hypertrophy,86,no,0.0,flat,0
+71,male,asymptomatic,144,221,lower_than_120mg/ml,normal,108,yes,1.8,downsloping,1
+74,male,atypical angina,145,216,greater_than_120mg/ml,normal,116,yes,1.8,downsloping,1
+53,male,asymptomatic,155,175,greater_than_120mg/ml,st-t_wave_abnormality,160,no,0.3,flat,0
+58,male,asymptomatic,150,219,lower_than_120mg/ml,st-t_wave_abnormality,118,yes,0.0,downsloping,1
+75,male,asymptomatic,160,310,greater_than_120mg/ml,normal,112,yes,2.0,downsloping,0
+56,male,asymptomatic,137,208,greater_than_120mg/ml,st-t_wave_abnormality,122,yes,1.8,downsloping,1
+58,male,asymptomatic,137,232,lower_than_120mg/ml,st-t_wave_abnormality,124,yes,1.4,downsloping,1
+64,male,asymptomatic,134,273,lower_than_120mg/ml,normal,102,yes,4.0,downsloping,1
+54,male,asymptomatic,133,203,lower_than_120mg/ml,st-t_wave_abnormality,137,no,0.2,flat,0
+54,male,non-anginal pain,132,182,lower_than_120mg/ml,st-t_wave_abnormality,141,no,0.1,flat,0
+59,male,asymptomatic,140,274,lower_than_120mg/ml,normal,154,yes,2.0,downsloping,0
+55,male,asymptomatic,135,204,greater_than_120mg/ml,st-t_wave_abnormality,126,yes,1.1,downsloping,1
+57,male,asymptomatic,144,270,greater_than_120mg/ml,st-t_wave_abnormality,160,yes,2.0,downsloping,1
+61,male,asymptomatic,141,292,lower_than_120mg/ml,st-t_wave_abnormality,115,yes,1.7,downsloping,1
+41,male,asymptomatic,150,171,lower_than_120mg/ml,normal,128,yes,1.5,downsloping,0
+71,male,asymptomatic,130,221,lower_than_120mg/ml,st-t_wave_abnormality,115,yes,0.0,downsloping,1
+38,male,asymptomatic,110,289,lower_than_120mg/ml,normal,105,yes,1.5,downsloping,1
+55,male,asymptomatic,158,217,lower_than_120mg/ml,normal,110,yes,2.5,downsloping,1
+56,male,asymptomatic,128,223,lower_than_120mg/ml,st-t_wave_abnormality,119,yes,2.0,downsloping,1
+69,male,asymptomatic,140,110,greater_than_120mg/ml,normal,109,yes,1.5,downsloping,1
+64,male,asymptomatic,150,193,lower_than_120mg/ml,st-t_wave_abnormality,135,yes,0.5,downsloping,1
+72,male,asymptomatic,160,123,greater_than_120mg/ml,left_ventricular_hypertrophy,130,no,1.5,downsloping,1
+69,male,asymptomatic,142,210,greater_than_120mg/ml,st-t_wave_abnormality,112,yes,1.5,downsloping,1
+56,male,asymptomatic,137,282,greater_than_120mg/ml,normal,126,yes,1.2,downsloping,1
+62,male,asymptomatic,139,170,lower_than_120mg/ml,st-t_wave_abnormality,120,yes,3.0,downsloping,1
+67,male,asymptomatic,146,369,lower_than_120mg/ml,normal,110,yes,1.9,downsloping,1
+57,male,asymptomatic,156,173,lower_than_120mg/ml,left_ventricular_hypertrophy,119,yes,3.0,downsloping,1
+69,male,asymptomatic,145,289,greater_than_120mg/ml,st-t_wave_abnormality,110,yes,1.8,downsloping,1
+51,male,asymptomatic,131,152,greater_than_120mg/ml,left_ventricular_hypertrophy,130,yes,1.0,downsloping,1
+48,male,asymptomatic,140,208,lower_than_120mg/ml,normal,159,yes,1.5,flat,1
+69,male,asymptomatic,122,216,greater_than_120mg/ml,left_ventricular_hypertrophy,84,yes,0.0,downsloping,1
+69,male,asymptomatic,142,271,lower_than_120mg/ml,left_ventricular_hypertrophy,126,no,0.3,flat,0
+64,male,asymptomatic,141,244,greater_than_120mg/ml,st-t_wave_abnormality,116,yes,1.5,downsloping,1
+57,male,non-anginal pain,180,285,greater_than_120mg/ml,st-t_wave_abnormality,120,no,0.8,downsloping,1
+53,male,asymptomatic,124,243,lower_than_120mg/ml,normal,122,yes,2.0,downsloping,1
+37,male,asymptomatic,118,240,lower_than_120mg/ml,left_ventricular_hypertrophy,165,no,1.0,downsloping,0
+67,male,asymptomatic,140,219,lower_than_120mg/ml,st-t_wave_abnormality,122,yes,2.0,downsloping,1
+74,male,asymptomatic,140,237,greater_than_120mg/ml,normal,94,no,0.0,downsloping,1
+63,male,non-anginal pain,136,165,lower_than_120mg/ml,st-t_wave_abnormality,133,no,0.2,flat,0
+58,male,asymptomatic,100,213,lower_than_120mg/ml,st-t_wave_abnormality,110,no,0.0,flat,0
+61,male,asymptomatic,190,287,greater_than_120mg/ml,left_ventricular_hypertrophy,150,yes,2.0,downsloping,1
+64,male,asymptomatic,130,258,greater_than_120mg/ml,left_ventricular_hypertrophy,130,no,0.0,downsloping,1
+58,male,asymptomatic,160,256,greater_than_120mg/ml,left_ventricular_hypertrophy,113,yes,1.0,flat,1
+60,male,asymptomatic,130,186,greater_than_120mg/ml,left_ventricular_hypertrophy,140,yes,0.5,downsloping,1
+57,male,asymptomatic,122,264,lower_than_120mg/ml,left_ventricular_hypertrophy,100,no,0.0,downsloping,1
+55,male,asymptomatic,133,185,lower_than_120mg/ml,st-t_wave_abnormality,136,no,0.2,flat,0
+55,male,asymptomatic,120,226,lower_than_120mg/ml,left_ventricular_hypertrophy,127,yes,1.7,downsloping,1
+56,male,asymptomatic,130,203,greater_than_120mg/ml,normal,98,no,1.5,downsloping,1
+57,male,asymptomatic,130,207,lower_than_120mg/ml,st-t_wave_abnormality,96,yes,1.0,downsloping,0
+61,male,asymptomatic,140,284,lower_than_120mg/ml,normal,123,yes,1.3,downsloping,1
+61,male,asymptomatic,120,337,lower_than_120mg/ml,normal,98,yes,0.0,downsloping,1
+74,male,asymptomatic,155,310,lower_than_120mg/ml,normal,112,yes,1.5,downsloping,1
+68,male,asymptomatic,134,254,greater_than_120mg/ml,normal,151,yes,0.0,flat,0
+51,female,asymptomatic,114,258,greater_than_120mg/ml,left_ventricular_hypertrophy,96,no,1.0,flat,0
+62,male,asymptomatic,160,254,greater_than_120mg/ml,st-t_wave_abnormality,108,yes,3.0,downsloping,1
+53,male,asymptomatic,144,300,greater_than_120mg/ml,st-t_wave_abnormality,128,yes,1.5,downsloping,1
+62,male,asymptomatic,158,170,lower_than_120mg/ml,st-t_wave_abnormality,138,yes,0.0,downsloping,1
+46,male,asymptomatic,134,310,lower_than_120mg/ml,normal,126,no,0.0,downsloping,1
+54,female,asymptomatic,127,333,greater_than_120mg/ml,st-t_wave_abnormality,154,no,0.0,downsloping,1
+62,male,atypical angina,135,139,lower_than_120mg/ml,st-t_wave_abnormality,137,no,0.2,flat,0
+55,male,asymptomatic,122,223,greater_than_120mg/ml,st-t_wave_abnormality,100,no,0.0,downsloping,1
+58,male,asymptomatic,140,385,greater_than_120mg/ml,left_ventricular_hypertrophy,135,no,0.3,flat,0
+62,male,non-anginal pain,120,254,lower_than_120mg/ml,left_ventricular_hypertrophy,93,yes,0.0,downsloping,1
+70,male,asymptomatic,130,322,lower_than_120mg/ml,left_ventricular_hypertrophy,109,no,2.4,downsloping,1
+67,female,asymptomatic,115,564,lower_than_120mg/ml,left_ventricular_hypertrophy,160,no,1.6,downsloping,0
+57,male,non-anginal pain,124,261,lower_than_120mg/ml,normal,141,no,0.3,flat,1
+64,male,asymptomatic,128,263,lower_than_120mg/ml,normal,105,yes,0.2,downsloping,0
+74,female,non-anginal pain,120,269,lower_than_120mg/ml,left_ventricular_hypertrophy,121,yes,0.2,flat,0
+65,male,asymptomatic,120,177,lower_than_120mg/ml,normal,140,no,0.4,flat,0
+56,male,asymptomatic,130,256,greater_than_120mg/ml,left_ventricular_hypertrophy,142,yes,0.6,downsloping,1
+59,male,asymptomatic,110,239,lower_than_120mg/ml,left_ventricular_hypertrophy,142,yes,1.2,downsloping,1
+60,male,asymptomatic,140,293,lower_than_120mg/ml,left_ventricular_hypertrophy,170,no,1.2,downsloping,1
+63,female,asymptomatic,150,407,lower_than_120mg/ml,left_ventricular_hypertrophy,154,no,4.0,downsloping,1
+59,male,asymptomatic,135,234,lower_than_120mg/ml,normal,161,no,0.5,downsloping,0
+53,male,asymptomatic,142,226,lower_than_120mg/ml,left_ventricular_hypertrophy,111,yes,0.0,flat,0
+44,male,asymptomatic,140,235,lower_than_120mg/ml,left_ventricular_hypertrophy,180,no,0.0,flat,0
+61,male,atypical angina,134,234,lower_than_120mg/ml,normal,145,no,2.6,downsloping,1
+57,female,asymptomatic,128,303,lower_than_120mg/ml,left_ventricular_hypertrophy,159,no,0.0,flat,0
+71,female,asymptomatic,112,149,lower_than_120mg/ml,normal,125,no,1.6,downsloping,0
+46,male,asymptomatic,140,311,lower_than_120mg/ml,normal,120,yes,1.8,downsloping,1
+53,male,asymptomatic,140,203,greater_than_120mg/ml,left_ventricular_hypertrophy,155,yes,3.1,downsloping,1
+64,male,atypical angina,110,211,lower_than_120mg/ml,left_ventricular_hypertrophy,144,yes,1.8,downsloping,0
+40,male,atypical angina,140,199,lower_than_120mg/ml,normal,178,yes,1.4,flat,0
+67,male,asymptomatic,120,229,lower_than_120mg/ml,left_ventricular_hypertrophy,129,yes,2.6,downsloping,1
+48,male,non-anginal pain,130,245,lower_than_120mg/ml,left_ventricular_hypertrophy,180,no,0.2,downsloping,0
+43,male,asymptomatic,115,303,lower_than_120mg/ml,normal,181,no,1.2,downsloping,0
+47,male,asymptomatic,112,204,lower_than_120mg/ml,normal,143,no,0.1,flat,0
+54,female,non-anginal pain,132,288,greater_than_120mg/ml,left_ventricular_hypertrophy,159,yes,0.0,flat,0
+48,female,asymptomatic,130,275,lower_than_120mg/ml,normal,139,no,0.2,flat,0
+46,female,asymptomatic,138,243,lower_than_120mg/ml,left_ventricular_hypertrophy,152,yes,0.0,downsloping,0
+51,female,asymptomatic,120,295,lower_than_120mg/ml,left_ventricular_hypertrophy,157,no,0.6,flat,0
+58,male,asymptomatic,112,230,lower_than_120mg/ml,left_ventricular_hypertrophy,165,no,2.5,downsloping,1
+71,female,asymptomatic,110,265,greater_than_120mg/ml,left_ventricular_hypertrophy,130,no,0.0,flat,0
+57,male,asymptomatic,128,229,lower_than_120mg/ml,left_ventricular_hypertrophy,150,no,0.4,downsloping,1
+66,male,asymptomatic,160,228,lower_than_120mg/ml,left_ventricular_hypertrophy,138,no,2.3,flat,0
+37,female,asymptomatic,120,215,lower_than_120mg/ml,normal,170,no,0.0,flat,0
+59,male,asymptomatic,170,326,lower_than_120mg/ml,left_ventricular_hypertrophy,140,yes,3.4,downsloping,1
+50,male,asymptomatic,144,200,lower_than_120mg/ml,left_ventricular_hypertrophy,126,yes,0.9,downsloping,1
+48,male,asymptomatic,130,256,greater_than_120mg/ml,left_ventricular_hypertrophy,150,yes,0.0,flat,1
+61,male,asymptomatic,140,207,lower_than_120mg/ml,left_ventricular_hypertrophy,138,yes,1.9,flat,1
+59,male,atypical angina,160,273,lower_than_120mg/ml,left_ventricular_hypertrophy,125,no,0.0,flat,1
+42,male,asymptomatic,130,180,lower_than_120mg/ml,normal,150,no,0.0,flat,0
+48,male,asymptomatic,122,222,lower_than_120mg/ml,left_ventricular_hypertrophy,186,no,0.0,flat,0
+40,male,asymptomatic,152,223,lower_than_120mg/ml,normal,181,no,0.0,flat,1
+62,female,asymptomatic,124,209,lower_than_120mg/ml,normal,163,no,0.0,flat,0
+44,male,asymptomatic,130,233,lower_than_120mg/ml,normal,179,yes,0.4,flat,0
+46,male,non-anginal pain,101,197,greater_than_120mg/ml,normal,156,no,0.0,flat,0
+59,male,asymptomatic,126,218,greater_than_120mg/ml,normal,134,no,2.2,downsloping,1
+58,male,asymptomatic,140,211,greater_than_120mg/ml,left_ventricular_hypertrophy,165,no,0.0,flat,0
+49,male,asymptomatic,118,149,lower_than_120mg/ml,left_ventricular_hypertrophy,126,no,0.8,flat,1
+44,male,asymptomatic,110,197,lower_than_120mg/ml,left_ventricular_hypertrophy,177,no,0.0,flat,1
+66,male,non-anginal pain,160,246,lower_than_120mg/ml,normal,120,yes,0.0,downsloping,1
+65,female,asymptomatic,150,225,lower_than_120mg/ml,left_ventricular_hypertrophy,114,no,1.0,downsloping,1
+42,male,asymptomatic,136,315,lower_than_120mg/ml,normal,125,yes,1.8,downsloping,1
+52,male,non-anginal pain,128,205,greater_than_120mg/ml,normal,184,no,0.0,flat,0
+65,female,asymptomatic,140,417,greater_than_120mg/ml,left_ventricular_hypertrophy,157,no,0.8,flat,0
+63,female,non-anginal pain,140,195,lower_than_120mg/ml,normal,179,no,0.0,flat,0
+45,female,non-anginal pain,130,234,lower_than_120mg/ml,left_ventricular_hypertrophy,175,no,0.6,downsloping,0
+41,female,non-anginal pain,105,198,lower_than_120mg/ml,normal,168,no,0.0,flat,0
+61,male,asymptomatic,138,166,lower_than_120mg/ml,left_ventricular_hypertrophy,125,yes,3.6,downsloping,1
+60,female,asymptomatic,120,178,greater_than_120mg/ml,normal,96,no,0.0,flat,0
+59,female,asymptomatic,174,249,lower_than_120mg/ml,normal,143,yes,0.0,downsloping,1
+62,male,non-anginal pain,120,281,lower_than_120mg/ml,left_ventricular_hypertrophy,103,no,1.4,downsloping,1
+57,male,asymptomatic,150,126,greater_than_120mg/ml,normal,173,no,0.2,flat,0
+51,female,asymptomatic,130,305,lower_than_120mg/ml,normal,142,yes,1.2,downsloping,1
+44,male,asymptomatic,120,226,lower_than_120mg/ml,normal,169,no,0.0,flat,0
+60,female,atypical angina,150,240,lower_than_120mg/ml,normal,171,no,0.9,flat,0
+63,male,atypical angina,145,233,greater_than_120mg/ml,left_ventricular_hypertrophy,150,no,2.3,downsloping,0
+57,male,asymptomatic,150,276,lower_than_120mg/ml,left_ventricular_hypertrophy,112,yes,0.6,downsloping,1
+51,male,asymptomatic,140,261,lower_than_120mg/ml,left_ventricular_hypertrophy,186,yes,0.0,flat,0
+58,female,non-anginal pain,136,319,greater_than_120mg/ml,left_ventricular_hypertrophy,152,no,0.0,flat,1
+44,female,asymptomatic,118,242,lower_than_120mg/ml,normal,149,no,0.3,downsloping,0
+47,male,asymptomatic,108,243,lower_than_120mg/ml,normal,152,no,0.0,flat,1
+61,male,asymptomatic,120,260,lower_than_120mg/ml,normal,140,yes,3.6,downsloping,1
+57,female,asymptomatic,120,354,lower_than_120mg/ml,normal,163,yes,0.6,flat,0
+70,male,non-anginal pain,156,245,lower_than_120mg/ml,left_ventricular_hypertrophy,143,no,0.0,flat,0
+76,female,asymptomatic,140,197,lower_than_120mg/ml,st-t_wave_abnormality,116,no,1.1,downsloping,0
+67,female,asymptomatic,106,223,lower_than_120mg/ml,normal,142,no,0.3,flat,0
+45,male,asymptomatic,142,309,lower_than_120mg/ml,left_ventricular_hypertrophy,147,yes,0.0,downsloping,1
+45,male,asymptomatic,104,208,lower_than_120mg/ml,left_ventricular_hypertrophy,148,yes,3.0,downsloping,0
+39,female,asymptomatic,94,199,lower_than_120mg/ml,normal,179,no,0.0,flat,0
+42,female,asymptomatic,120,209,lower_than_120mg/ml,normal,173,no,0.0,downsloping,0
+56,male,non-anginal pain,120,236,lower_than_120mg/ml,normal,178,no,0.8,flat,0
+58,male,asymptomatic,146,218,lower_than_120mg/ml,normal,105,no,2.0,downsloping,1
+35,male,asymptomatic,120,198,lower_than_120mg/ml,normal,130,yes,1.6,downsloping,1
+58,male,asymptomatic,150,270,lower_than_120mg/ml,left_ventricular_hypertrophy,111,yes,0.8,flat,1
+41,male,asymptomatic,130,214,lower_than_120mg/ml,left_ventricular_hypertrophy,168,no,2.0,downsloping,0
+57,male,asymptomatic,110,201,lower_than_120mg/ml,normal,126,yes,1.5,downsloping,0
+42,male,atypical angina,148,244,lower_than_120mg/ml,left_ventricular_hypertrophy,178,no,0.8,flat,0
+62,male,non-anginal pain,128,208,greater_than_120mg/ml,left_ventricular_hypertrophy,140,no,0.0,flat,0
+59,male,atypical angina,178,270,lower_than_120mg/ml,left_ventricular_hypertrophy,145,no,4.2,downsloping,0
+41,female,non-anginal pain,126,306,lower_than_120mg/ml,normal,163,no,0.0,flat,0
+50,male,asymptomatic,150,243,lower_than_120mg/ml,left_ventricular_hypertrophy,128,no,2.6,downsloping,1
+59,male,non-anginal pain,140,221,lower_than_120mg/ml,normal,164,yes,0.0,flat,0
+61,female,asymptomatic,130,330,lower_than_120mg/ml,left_ventricular_hypertrophy,169,no,0.0,flat,1
+54,male,asymptomatic,124,266,lower_than_120mg/ml,left_ventricular_hypertrophy,109,yes,2.2,downsloping,1
+54,male,asymptomatic,110,206,lower_than_120mg/ml,left_ventricular_hypertrophy,108,yes,0.0,downsloping,1
+52,male,asymptomatic,125,212,lower_than_120mg/ml,normal,168,no,1.0,flat,1
+47,male,asymptomatic,110,275,lower_than_120mg/ml,left_ventricular_hypertrophy,118,yes,1.0,downsloping,1
+66,male,asymptomatic,120,302,lower_than_120mg/ml,left_ventricular_hypertrophy,151,no,0.4,downsloping,0
+58,male,asymptomatic,100,234,lower_than_120mg/ml,normal,156,no,0.1,flat,1
+64,female,asymptomatic,140,313,lower_than_120mg/ml,normal,133,no,0.2,flat,0
+50,female,non-anginal pain,120,244,lower_than_120mg/ml,normal,162,no,1.1,flat,0
+44,female,asymptomatic,108,141,lower_than_120mg/ml,normal,175,no,0.6,downsloping,0
+67,male,asymptomatic,120,237,lower_than_120mg/ml,normal,71,no,1.0,downsloping,1
+49,female,asymptomatic,130,269,lower_than_120mg/ml,normal,163,no,0.0,flat,0
+57,male,asymptomatic,165,289,greater_than_120mg/ml,left_ventricular_hypertrophy,124,no,1.0,downsloping,1
+63,male,asymptomatic,130,254,lower_than_120mg/ml,left_ventricular_hypertrophy,147,no,1.4,downsloping,1
+48,male,asymptomatic,124,274,lower_than_120mg/ml,left_ventricular_hypertrophy,166,no,0.5,downsloping,1
+51,male,asymptomatic,100,222,lower_than_120mg/ml,normal,143,yes,1.2,downsloping,0
+60,female,asymptomatic,150,258,lower_than_120mg/ml,left_ventricular_hypertrophy,157,no,2.6,downsloping,1
+59,male,asymptomatic,140,177,lower_than_120mg/ml,normal,162,yes,0.0,flat,1
+45,female,non-anginal pain,112,160,lower_than_120mg/ml,normal,138,no,0.0,downsloping,0
+55,female,asymptomatic,180,327,lower_than_120mg/ml,st-t_wave_abnormality,117,yes,3.4,downsloping,1
+41,male,non-anginal pain,110,235,lower_than_120mg/ml,normal,153,no,0.0,flat,0
+60,female,asymptomatic,158,305,lower_than_120mg/ml,left_ventricular_hypertrophy,161,no,0.0,flat,1
+54,female,asymptomatic,135,304,greater_than_120mg/ml,normal,170,no,0.0,flat,0
+42,male,non-anginal pain,120,295,lower_than_120mg/ml,normal,162,no,0.0,flat,0
+49,female,non-anginal pain,134,271,lower_than_120mg/ml,normal,162,no,0.0,downsloping,0
+46,male,asymptomatic,120,249,lower_than_120mg/ml,left_ventricular_hypertrophy,144,no,0.8,flat,1
+56,female,asymptomatic,200,288,greater_than_120mg/ml,left_ventricular_hypertrophy,133,yes,4.0,downsloping,1
+66,female,atypical angina,150,226,lower_than_120mg/ml,normal,114,no,2.6,downsloping,0
+56,male,asymptomatic,130,283,greater_than_120mg/ml,left_ventricular_hypertrophy,103,yes,1.6,downsloping,1
+49,male,asymptomatic,120,188,lower_than_120mg/ml,normal,139,no,2.0,downsloping,1
+54,male,asymptomatic,122,286,lower_than_120mg/ml,left_ventricular_hypertrophy,116,yes,3.2,downsloping,1
+57,male,asymptomatic,152,274,lower_than_120mg/ml,normal,88,yes,1.2,downsloping,1
+65,female,asymptomatic,160,360,lower_than_120mg/ml,left_ventricular_hypertrophy,151,no,0.8,flat,0
+54,male,asymptomatic,125,273,lower_than_120mg/ml,left_ventricular_hypertrophy,152,no,0.5,downsloping,0
+54,female,asymptomatic,160,201,lower_than_120mg/ml,normal,163,no,0.0,flat,0
+62,male,asymptomatic,120,267,lower_than_120mg/ml,normal,99,yes,1.8,downsloping,1
+52,female,asymptomatic,136,196,lower_than_120mg/ml,left_ventricular_hypertrophy,169,no,0.1,downsloping,0
+52,male,non-anginal pain,134,201,lower_than_120mg/ml,normal,158,no,0.8,flat,0
+60,male,asymptomatic,117,230,greater_than_120mg/ml,normal,160,yes,1.4,flat,1
+63,female,asymptomatic,108,269,lower_than_120mg/ml,normal,169,yes,1.8,downsloping,1
+66,male,asymptomatic,112,212,lower_than_120mg/ml,left_ventricular_hypertrophy,132,yes,0.1,flat,1
+42,male,asymptomatic,140,226,lower_than_120mg/ml,normal,178,no,0.0,flat,0
+64,male,asymptomatic,120,246,lower_than_120mg/ml,left_ventricular_hypertrophy,96,yes,2.2,downsloping,1
+54,male,asymptomatic,150,232,lower_than_120mg/ml,left_ventricular_hypertrophy,165,no,1.6,flat,0
+46,female,asymptomatic,142,177,lower_than_120mg/ml,left_ventricular_hypertrophy,160,yes,1.4,downsloping,0
+67,female,asymptomatic,152,277,lower_than_120mg/ml,normal,172,no,0.0,flat,0
+56,male,asymptomatic,125,249,greater_than_120mg/ml,left_ventricular_hypertrophy,144,yes,1.2,downsloping,1
+34,female,non-anginal pain,118,210,lower_than_120mg/ml,normal,192,no,0.7,flat,0
+57,male,asymptomatic,132,207,lower_than_120mg/ml,normal,168,yes,0.0,flat,0
+64,male,asymptomatic,145,212,lower_than_120mg/ml,left_ventricular_hypertrophy,132,no,2.0,downsloping,1
+59,male,asymptomatic,138,271,lower_than_120mg/ml,left_ventricular_hypertrophy,182,no,0.0,flat,0
+50,male,asymptomatic,140,233,lower_than_120mg/ml,normal,163,no,0.6,downsloping,1
+51,male,atypical angina,125,213,lower_than_120mg/ml,left_ventricular_hypertrophy,125,yes,1.4,flat,0
+54,male,non-anginal pain,192,283,lower_than_120mg/ml,left_ventricular_hypertrophy,195,no,0.0,flat,1
+53,male,asymptomatic,123,282,lower_than_120mg/ml,normal,95,yes,2.0,downsloping,1
+52,male,asymptomatic,112,230,lower_than_120mg/ml,normal,160,no,0.0,flat,1
+40,male,asymptomatic,110,167,lower_than_120mg/ml,left_ventricular_hypertrophy,114,yes,2.0,downsloping,1
+58,male,asymptomatic,132,224,lower_than_120mg/ml,left_ventricular_hypertrophy,173,no,3.2,flat,1
+41,female,asymptomatic,112,268,lower_than_120mg/ml,left_ventricular_hypertrophy,172,yes,0.0,flat,0
+41,male,asymptomatic,112,250,lower_than_120mg/ml,normal,179,no,0.0,flat,0
+50,female,asymptomatic,120,219,lower_than_120mg/ml,normal,158,no,1.6,downsloping,0
+54,female,asymptomatic,108,267,lower_than_120mg/ml,left_ventricular_hypertrophy,167,no,0.0,flat,0
+64,female,asymptomatic,130,303,lower_than_120mg/ml,normal,122,no,2.0,downsloping,0
+51,female,asymptomatic,130,256,lower_than_120mg/ml,left_ventricular_hypertrophy,149,no,0.5,flat,0
+46,female,non-anginal pain,105,204,lower_than_120mg/ml,normal,172,no,0.0,flat,0
+55,male,asymptomatic,140,217,lower_than_120mg/ml,normal,111,yes,5.6,downsloping,1
+45,male,non-anginal pain,128,308,lower_than_120mg/ml,left_ventricular_hypertrophy,170,no,0.0,flat,0
+56,male,atypical angina,120,193,lower_than_120mg/ml,left_ventricular_hypertrophy,162,no,1.9,downsloping,0
+66,female,asymptomatic,178,228,greater_than_120mg/ml,normal,165,yes,1.0,downsloping,1
+38,male,atypical angina,120,231,lower_than_120mg/ml,normal,182,yes,3.8,downsloping,1
+62,female,asymptomatic,150,244,lower_than_120mg/ml,normal,154,yes,1.4,downsloping,1
+55,male,non-anginal pain,130,262,lower_than_120mg/ml,normal,155,no,0.0,flat,0
+58,male,asymptomatic,128,259,lower_than_120mg/ml,left_ventricular_hypertrophy,130,yes,3.0,downsloping,1
+43,male,asymptomatic,110,211,lower_than_120mg/ml,normal,161,no,0.0,flat,0
+64,female,asymptomatic,180,325,lower_than_120mg/ml,normal,154,yes,0.0,flat,0
+50,female,asymptomatic,110,254,lower_than_120mg/ml,left_ventricular_hypertrophy,159,no,0.0,flat,0
+53,male,asymptomatic,130,197,greater_than_120mg/ml,left_ventricular_hypertrophy,152,no,1.2,downsloping,0
+45,female,asymptomatic,138,236,lower_than_120mg/ml,left_ventricular_hypertrophy,152,yes,0.2,downsloping,0
+65,male,atypical angina,138,282,greater_than_120mg/ml,left_ventricular_hypertrophy,174,no,1.4,downsloping,1
+69,male,atypical angina,160,234,greater_than_120mg/ml,left_ventricular_hypertrophy,131,no,0.1,downsloping,0
+69,male,asymptomatic,140,254,lower_than_120mg/ml,left_ventricular_hypertrophy,146,no,2.0,downsloping,1
+67,male,asymptomatic,100,299,lower_than_120mg/ml,left_ventricular_hypertrophy,125,yes,0.9,downsloping,1
+68,female,asymptomatic,120,211,lower_than_120mg/ml,left_ventricular_hypertrophy,115,no,1.5,downsloping,0
+34,male,atypical angina,118,182,lower_than_120mg/ml,left_ventricular_hypertrophy,174,no,0.0,flat,0
+62,female,asymptomatic,138,294,greater_than_120mg/ml,normal,106,no,1.9,downsloping,1
+51,male,asymptomatic,140,298,lower_than_120mg/ml,normal,122,yes,4.2,downsloping,1
+46,male,asymptomatic,150,231,lower_than_120mg/ml,normal,147,no,3.6,downsloping,1
+67,male,asymptomatic,125,254,greater_than_120mg/ml,normal,163,no,0.2,downsloping,1
+50,male,asymptomatic,129,196,lower_than_120mg/ml,normal,163,no,0.0,flat,0
+42,male,asymptomatic,120,240,greater_than_120mg/ml,normal,194,no,0.8,downsloping,0
+56,female,asymptomatic,134,409,lower_than_120mg/ml,left_ventricular_hypertrophy,150,yes,1.9,downsloping,1
+41,male,asymptomatic,110,172,lower_than_120mg/ml,left_ventricular_hypertrophy,158,no,0.0,flat,1
+42,female,asymptomatic,102,265,lower_than_120mg/ml,left_ventricular_hypertrophy,122,no,0.6,downsloping,0
+53,male,asymptomatic,130,246,greater_than_120mg/ml,left_ventricular_hypertrophy,173,no,0.0,flat,0
+43,male,asymptomatic,130,315,lower_than_120mg/ml,normal,162,no,1.9,flat,0
+56,male,asymptomatic,132,184,lower_than_120mg/ml,left_ventricular_hypertrophy,105,yes,2.1,downsloping,1
+52,male,asymptomatic,108,233,greater_than_120mg/ml,normal,147,no,0.1,flat,0
+62,female,asymptomatic,140,394,lower_than_120mg/ml,left_ventricular_hypertrophy,157,no,1.2,downsloping,0
+70,male,asymptomatic,160,269,lower_than_120mg/ml,normal,112,yes,2.9,downsloping,1
+54,male,asymptomatic,140,239,lower_than_120mg/ml,normal,160,no,1.2,flat,0
+70,male,asymptomatic,145,174,lower_than_120mg/ml,normal,125,yes,2.6,downsloping,1
+54,male,non-anginal pain,108,309,lower_than_120mg/ml,normal,156,no,0.0,flat,0
+35,male,asymptomatic,126,282,lower_than_120mg/ml,left_ventricular_hypertrophy,156,yes,0.0,flat,1
+48,male,asymptomatic,124,255,greater_than_120mg/ml,normal,175,no,0.0,flat,0
+55,female,non-anginal pain,135,250,lower_than_120mg/ml,left_ventricular_hypertrophy,161,no,1.4,downsloping,0
+58,female,asymptomatic,100,248,lower_than_120mg/ml,left_ventricular_hypertrophy,122,no,1.0,downsloping,0
+54,female,asymptomatic,110,214,lower_than_120mg/ml,normal,158,no,1.6,downsloping,0
+69,female,atypical angina,140,239,lower_than_120mg/ml,normal,151,no,1.8,flat,0
+77,male,asymptomatic,125,304,lower_than_120mg/ml,left_ventricular_hypertrophy,162,yes,0.0,flat,1
+68,male,asymptomatic,118,277,lower_than_120mg/ml,normal,151,no,1.0,flat,0
+58,male,asymptomatic,125,300,lower_than_120mg/ml,left_ventricular_hypertrophy,171,no,0.0,flat,1
+60,male,asymptomatic,125,258,lower_than_120mg/ml,left_ventricular_hypertrophy,141,yes,2.8,downsloping,1
+51,male,asymptomatic,140,299,lower_than_120mg/ml,normal,173,yes,1.6,flat,1
+55,male,asymptomatic,160,289,lower_than_120mg/ml,left_ventricular_hypertrophy,145,yes,0.8,downsloping,1
+52,male,atypical angina,152,298,greater_than_120mg/ml,normal,178,no,1.2,downsloping,0
+60,female,asymptomatic,102,318,lower_than_120mg/ml,normal,160,no,0.0,flat,0
+58,male,asymptomatic,105,240,lower_than_120mg/ml,left_ventricular_hypertrophy,154,yes,0.6,downsloping,0
+64,male,asymptomatic,125,309,lower_than_120mg/ml,normal,131,yes,1.8,downsloping,1
+37,male,asymptomatic,130,250,lower_than_120mg/ml,normal,187,no,3.5,downsloping,0
+59,male,atypical angina,170,288,lower_than_120mg/ml,left_ventricular_hypertrophy,159,no,0.2,downsloping,1
+51,male,asymptomatic,125,245,greater_than_120mg/ml,left_ventricular_hypertrophy,166,no,2.4,downsloping,0
+43,female,asymptomatic,122,213,lower_than_120mg/ml,normal,165,no,0.2,downsloping,0
+58,male,asymptomatic,128,216,lower_than_120mg/ml,left_ventricular_hypertrophy,131,yes,2.2,downsloping,1
+29,male,non-anginal pain,130,204,lower_than_120mg/ml,left_ventricular_hypertrophy,202,no,0.0,flat,0
+41,female,non-anginal pain,130,204,lower_than_120mg/ml,left_ventricular_hypertrophy,172,no,1.4,flat,0
+63,female,asymptomatic,135,252,lower_than_120mg/ml,left_ventricular_hypertrophy,172,no,0.0,flat,0
+51,male,asymptomatic,94,227,lower_than_120mg/ml,normal,154,yes,0.0,flat,0
+54,male,asymptomatic,120,258,lower_than_120mg/ml,left_ventricular_hypertrophy,147,no,0.4,downsloping,0
+44,male,non-anginal pain,120,220,lower_than_120mg/ml,normal,170,no,0.0,flat,0
+54,male,asymptomatic,110,239,lower_than_120mg/ml,normal,126,yes,2.8,downsloping,1
+65,male,asymptomatic,135,254,lower_than_120mg/ml,left_ventricular_hypertrophy,127,no,2.8,downsloping,1
+57,male,asymptomatic,150,168,lower_than_120mg/ml,normal,174,no,1.6,flat,0
+63,male,asymptomatic,130,330,greater_than_120mg/ml,left_ventricular_hypertrophy,132,yes,1.8,flat,1
+35,female,asymptomatic,138,183,lower_than_120mg/ml,normal,182,no,1.4,flat,0
+41,male,non-anginal pain,135,203,lower_than_120mg/ml,normal,132,no,0.0,downsloping,0
+62,female,asymptomatic,130,263,lower_than_120mg/ml,normal,97,no,1.2,downsloping,1
+43,female,asymptomatic,132,341,greater_than_120mg/ml,left_ventricular_hypertrophy,136,yes,3.0,downsloping,1
+58,female,atypical angina,150,283,greater_than_120mg/ml,left_ventricular_hypertrophy,162,no,1.0,flat,0
+52,male,atypical angina,118,186,lower_than_120mg/ml,left_ventricular_hypertrophy,190,no,0.0,downsloping,0
+61,female,asymptomatic,145,307,lower_than_120mg/ml,left_ventricular_hypertrophy,146,yes,1.0,downsloping,1
+39,male,asymptomatic,118,219,lower_than_120mg/ml,normal,140,no,1.2,downsloping,1
+45,male,asymptomatic,115,260,lower_than_120mg/ml,left_ventricular_hypertrophy,185,no,0.0,flat,0
+52,male,asymptomatic,128,255,lower_than_120mg/ml,normal,161,yes,0.0,flat,1
+62,male,asymptomatic,130,231,lower_than_120mg/ml,normal,146,no,1.8,downsloping,0
+62,female,asymptomatic,160,164,lower_than_120mg/ml,left_ventricular_hypertrophy,145,no,6.2,downsloping,1
+53,female,asymptomatic,138,234,lower_than_120mg/ml,left_ventricular_hypertrophy,160,no,0.0,flat,0
+43,male,asymptomatic,120,177,lower_than_120mg/ml,left_ventricular_hypertrophy,120,yes,2.5,downsloping,1
+47,male,asymptomatic,138,257,lower_than_120mg/ml,left_ventricular_hypertrophy,156,no,0.0,flat,0
+52,male,non-anginal pain,120,325,lower_than_120mg/ml,normal,172,no,0.2,flat,0
+68,male,asymptomatic,180,274,greater_than_120mg/ml,left_ventricular_hypertrophy,150,yes,1.6,downsloping,1
+39,male,asymptomatic,140,321,lower_than_120mg/ml,left_ventricular_hypertrophy,182,no,0.0,flat,0
+53,female,asymptomatic,130,264,lower_than_120mg/ml,left_ventricular_hypertrophy,143,no,0.4,downsloping,0
+62,female,asymptomatic,140,268,lower_than_120mg/ml,left_ventricular_hypertrophy,160,no,3.6,downsloping,1
+51,female,asymptomatic,140,308,lower_than_120mg/ml,left_ventricular_hypertrophy,142,no,1.5,flat,0
+60,male,asymptomatic,130,253,lower_than_120mg/ml,normal,144,yes,1.4,flat,1
+65,male,asymptomatic,110,248,lower_than_120mg/ml,left_ventricular_hypertrophy,158,no,0.6,flat,1
+65,female,asymptomatic,155,269,lower_than_120mg/ml,normal,148,no,0.8,flat,0
+60,male,asymptomatic,140,185,lower_than_120mg/ml,left_ventricular_hypertrophy,155,no,3.0,downsloping,1
+60,male,asymptomatic,145,282,lower_than_120mg/ml,left_ventricular_hypertrophy,142,yes,2.8,downsloping,1
+54,male,asymptomatic,120,188,lower_than_120mg/ml,normal,113,no,1.4,downsloping,1
+44,male,non-anginal pain,130,219,lower_than_120mg/ml,left_ventricular_hypertrophy,188,no,0.0,flat,0
+44,male,asymptomatic,112,290,lower_than_120mg/ml,left_ventricular_hypertrophy,153,no,0.0,flat,1
+51,male,asymptomatic,110,175,lower_than_120mg/ml,normal,123,no,0.6,flat,0
+59,male,asymptomatic,150,212,greater_than_120mg/ml,normal,157,no,1.6,flat,0
+71,female,non-anginal pain,160,302,lower_than_120mg/ml,normal,162,no,0.4,flat,0
+61,male,asymptomatic,150,243,greater_than_120mg/ml,normal,137,yes,1.0,downsloping,0
+55,male,asymptomatic,132,353,lower_than_120mg/ml,normal,132,yes,1.2,downsloping,1
+64,male,asymptomatic,140,335,lower_than_120mg/ml,normal,158,no,0.0,flat,1
+43,male,asymptomatic,150,247,lower_than_120mg/ml,normal,171,no,1.5,flat,0
+58,female,asymptomatic,120,340,lower_than_120mg/ml,normal,172,no,0.0,flat,0
+60,male,asymptomatic,130,206,lower_than_120mg/ml,left_ventricular_hypertrophy,132,yes,2.4,downsloping,1
+58,male,non-anginal pain,120,284,lower_than_120mg/ml,left_ventricular_hypertrophy,160,no,1.8,downsloping,1
+49,male,non-anginal pain,130,266,lower_than_120mg/ml,normal,171,no,0.6,flat,0
+48,male,non-anginal pain,110,229,lower_than_120mg/ml,normal,168,no,1.0,downsloping,1
+52,male,asymptomatic,172,199,greater_than_120mg/ml,normal,162,no,0.5,flat,0
+44,male,non-anginal pain,120,263,lower_than_120mg/ml,normal,173,no,0.0,flat,0
+56,female,non-anginal pain,140,294,lower_than_120mg/ml,left_ventricular_hypertrophy,153,no,1.3,downsloping,0
+57,male,asymptomatic,140,192,lower_than_120mg/ml,normal,148,no,0.4,downsloping,0
+67,male,asymptomatic,160,286,lower_than_120mg/ml,left_ventricular_hypertrophy,108,yes,1.5,downsloping,1
+53,female,asymptomatic,128,216,lower_than_120mg/ml,left_ventricular_hypertrophy,115,no,0.0,flat,0
+52,male,asymptomatic,138,223,lower_than_120mg/ml,normal,169,no,0.0,flat,0
+43,male,asymptomatic,132,247,greater_than_120mg/ml,left_ventricular_hypertrophy,143,yes,0.1,downsloping,1
+52,male,asymptomatic,128,204,greater_than_120mg/ml,normal,156,yes,1.0,downsloping,1
+59,male,atypical angina,134,204,lower_than_120mg/ml,normal,162,no,0.8,flat,1
+64,male,atypical angina,170,227,lower_than_120mg/ml,left_ventricular_hypertrophy,155,no,0.6,downsloping,0
+66,female,asymptomatic,146,278,lower_than_120mg/ml,left_ventricular_hypertrophy,152,no,0.0,downsloping,0
+39,female,asymptomatic,138,220,lower_than_120mg/ml,normal,152,no,0.0,downsloping,0
+57,male,non-anginal pain,154,232,lower_than_120mg/ml,left_ventricular_hypertrophy,164,no,0.0,flat,1
+58,female,asymptomatic,130,197,lower_than_120mg/ml,normal,131,no,0.6,downsloping,0
+57,male,asymptomatic,110,335,lower_than_120mg/ml,normal,143,yes,3.0,downsloping,1
+47,male,asymptomatic,130,253,lower_than_120mg/ml,normal,179,no,0.0,flat,0
+55,female,asymptomatic,128,205,lower_than_120mg/ml,st-t_wave_abnormality,130,yes,2.0,downsloping,1
+35,male,non-anginal pain,122,192,lower_than_120mg/ml,normal,174,no,0.0,flat,0
+61,male,asymptomatic,148,203,lower_than_120mg/ml,normal,161,no,0.0,flat,1
+58,male,asymptomatic,114,318,lower_than_120mg/ml,st-t_wave_abnormality,140,no,4.4,downsloping,1
+58,female,asymptomatic,170,225,greater_than_120mg/ml,left_ventricular_hypertrophy,146,yes,2.8,downsloping,1
+58,male,non-anginal pain,125,220,lower_than_120mg/ml,normal,144,no,0.4,downsloping,0
+56,male,non-anginal pain,130,221,lower_than_120mg/ml,left_ventricular_hypertrophy,163,no,0.0,flat,0
+56,male,non-anginal pain,120,240,lower_than_120mg/ml,normal,169,no,0.0,downsloping,0
+67,male,asymptomatic,152,212,lower_than_120mg/ml,left_ventricular_hypertrophy,150,no,0.8,downsloping,1
+55,female,non-anginal pain,132,342,lower_than_120mg/ml,normal,166,no,1.2,flat,0
+44,male,asymptomatic,120,169,lower_than_120mg/ml,normal,144,yes,2.8,downsloping,1
+63,male,asymptomatic,140,187,lower_than_120mg/ml,left_ventricular_hypertrophy,144,yes,4.0,flat,1
+63,female,asymptomatic,124,197,lower_than_120mg/ml,normal,136,yes,0.0,downsloping,1
+41,male,non-anginal pain,120,157,lower_than_120mg/ml,normal,182,no,0.0,flat,0
+59,male,asymptomatic,164,176,greater_than_120mg/ml,left_ventricular_hypertrophy,90,no,1.0,downsloping,1
+57,female,asymptomatic,140,241,lower_than_120mg/ml,normal,123,yes,0.2,downsloping,1
+45,male,atypical angina,110,264,lower_than_120mg/ml,normal,132,no,1.2,downsloping,1
+68,male,asymptomatic,144,193,greater_than_120mg/ml,normal,141,no,3.4,downsloping,1
+57,male,asymptomatic,130,131,lower_than_120mg/ml,normal,115,yes,1.2,downsloping,1
+57,female,non-anginal pain,130,236,lower_than_120mg/ml,left_ventricular_hypertrophy,174,no,0.0,downsloping,1
+38,male,asymptomatic,138,175,lower_than_120mg/ml,normal,173,no,0.0,flat,0
